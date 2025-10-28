@@ -1,0 +1,52 @@
+====== Matemática Discreta II ======
+
+A disciplina **Matemática Discreta II** dá continuidade aos conteúdos de **Matemática Discreta I**, aprofundando temas essenciais para a **Ciência da Computação** e **Engenharia Informática**.  
+O foco é o estudo de estruturas matemáticas que fundamentam a lógica computacional, a teoria dos grafos e a análise de algoritmos.  
+
+===== Objetivos =====
+  * Compreender e aplicar conceitos de **teoria dos grafos**.  
+  * Estudar **árvores** e suas aplicações em computação.  
+  * Trabalhar com **relações, funções e fechamentos**.  
+  * Introduzir noções de **combinatória avançada**.  
+  * Aplicar raciocínio lógico na resolução de problemas.  
+
+===== Conteúdos =====
+  * **Teoria dos Grafos**  
+    * Grafos simples, multigrafos e dígrafos  
+    * Caminhos, circuitos e conectividade  
+    * Grafos Eulerianos e Hamiltonianos  
+    * Grafos ponderados e algoritmos básicos (Dijkstra, Prim, Kruskal)  
+
+  * **Árvores**  
+    * Definição e propriedades  
+    * Árvores binárias e árvores de busca  
+    * Aplicações em algoritmos e estruturas de dados  
+
+  * **Relações e Funções**  
+    * Relações de equivalência e de ordem  
+    * Fecho reflexivo, simétrico e transitivo  
+    * Funções injetoras, sobrejetoras e bijetoras  
+
+  * **Combinatória Avançada**  
+    * Permutações e combinações com restrições  
+    * Princípio da Inclusão-Exclusão  
+    * Recorrências e introdução ao Teorema de Recorrência de Master  
+
+  * **Teoria dos Números (introdução)**  
+    * Congruências e aritmética modular  
+    * Aplicações em criptografia básica  
+
+===== Metodologia =====
+  * Aulas teóricas com exemplos práticos.  
+  * Exercícios resolvidos em sala e listas para prática individual.  
+  * Projetos e aplicações computacionais (ex.: análise de grafos com software).  
+
+===== Avaliação =====
+  * Testes escritos e práticos.  
+  * Trabalhos de grupo com aplicação em problemas reais.  
+  * Projeto final ou exame.  
+
+===== Bibliografia =====
+  * ROSEN, K. H. *Matemática Discreta e Suas Aplicações*.  
+  * LIPSCHUTZ, S. & LIPSON, M. *Matemática Discreta*.  
+  * HEIN, J. L. *Discrete Structures, Logic, and Computability*.  

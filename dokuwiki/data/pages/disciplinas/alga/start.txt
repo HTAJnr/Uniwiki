@@ -1,0 +1,86 @@
+~~NOTOC~~
+====== Álgebra Linear e Geometria Analítica ======
+<WRAP centeralign>
+<wrap lo>Ano: [1º] • Semestre: [1º] </wrap>
+</WRAP>
+----
+<WRAP centeralign>
+===== 📖 Sobre a Disciplina =====
+Introduz os conceitos fundamentais de álgebra linear e geometria analítica, fornecendo as bases matemáticas para modelar e resolver problemas em ciência e engenharia. A disciplina desenvolve a compreensão de sistemas lineares, matrizes, determinantes, vetores e espaços vetoriais, aplicados à representação e análise geométrica no plano e no espaço.
+</WRAP>
+
+<WRAP center round info 60%>
+**Tópicos principais:**
+  * Matrizes — definição e exemplos  
+  * Matrizes especiais: transposta, simétrica, anti-simétrica, triangulares, diagonal, identidade e quadrada  
+  * Igualdade e operações com matrizes (adição, produto por escalar, produto de matrizes)  
+  * Potência de uma matriz e operações sobre linhas  
+  * Sistemas de equações lineares  
+  * Método de Gauss  
+  * Discussão de sistemas lineares e sistemas homogéneos  
+  * Determinantes — definição, propriedades e cálculo  
+  * Regra de Cramer e Teorema de Laplace  
+  * Matriz inversa — cálculo pela adjunta e método de Jordan  
+  * Vetores — introdução e operações vetoriais  
+  * Representação geométrica de vetores no plano e no espaço  
+  * Produto escalar, produto vetorial e aplicações geométricas  
+  * Combinações lineares e dependência linear  
+  * Espaços vetoriais e subespaços  
+  * Bases e dimensão  
+  * Mudança de base  
+  * Aplicações lineares e matrizes associadas  
+  * Autovalores e autovetores (introdução)  
+  * Transformações geométricas no plano  
+  * Exercícios de consolidação e preparação para teste  
+  * Apresentação e discussão de trabalhos  
+
+**Competências desenvolvidas:**
+  * Operar com matrizes e determinantes de forma rigorosa  
+  * Resolver sistemas de equações lineares através de métodos algébricos  
+  * Aplicar conceitos de vetores e operações em contextos geométricos  
+  * Interpretar relações entre álgebra linear e representação geométrica  
+  * Preparar bases para disciplinas futuras como Computação Gráfica e Álgebra Computacional  
+</WRAP>
+----
+===== 📚 Recursos Disponíveis =====
+==== Material de Apoio ====
+<WRAP group>
+<WRAP half column>
+<WRAP round box>
+**📂 Pasta da Disciplina no Drive**
+Slides teóricos, exercícios resolvidos, fichas de trabalho e exemplos práticos de aplicações geométricas. Inclui resumos de propriedades de matrizes, determinantes e vetores com demonstrações passo a passo.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://drive.google.com/drive/folders/11XPhDYJU9kNp3Eise0AAMvjNLY2OnlJH?usp=sharing|Aceder ao Material]]
+</WRAP>
+</WRAP>
+
+<WRAP half column>
+<WRAP round info>
+**📝 O Que Encontras**
+  * Slides e resumos de cada tema  
+  * Fichas de exercícios com soluções detalhadas  
+  * Exemplos de aplicação geométrica no plano e espaço  
+  * Testes e exames resolvidos  
+  * Fórmulas e propriedades essenciais  
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+===== 💡 Dicas de Estudo =====
+<WRAP round tip 100%>
+  * Pratica a resolução manual de sistemas antes de usar calculadora  
+  * Faz esquemas para visualizar relações geométricas  
+  * Decora as propriedades fundamentais de determinantes  
+  * Revisa os conceitos de base e dimensão com exemplos simples  
+  * Resolve problemas de vetores em 2D e 3D para consolidar a intuição espacial  
+</WRAP>
+----
+<WRAP centeralign>
+===== ➕ Contribuir =====
+**Tens material útil para esta disciplina?** [[contribuir:add|Partilha aqui!]]
+</WRAP>
+----
+<WRAP centeralign lo>
+[[:start|← Voltar a Página Principal]]
+</WRAP>

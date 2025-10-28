@@ -1,0 +1,76 @@
+~~NOTOC~~
+====== Base de Dados I ======
+<WRAP centeralign>
+<wrap lo>Ano: [2º] • Semestre: [1º] </wrap>
+</WRAP>
+----
+<WRAP centeralign>
+===== 📖 Sobre a Disciplina =====
+Disciplina que introduz conceitos fundamentais de **Sistemas de Base de Dados**, **modelos de dados**, **SQL e PL/SQL**, **normalização**, **ciclo de vida de BD** e **mapeamento objeto-relacional**. Permite aos estudantes **desenhar, implementar, consultar e gerir bases de dados relacionais**, garantindo integridade, eficiência e segurança.
+</WRAP>
+
+<WRAP center round info 60%>
+**Tópicos principais:**
+  * Conceitos de dado, informação, base de dados e SGBD  
+  * Vantagens, desvantagens e evolução dos sistemas de ficheiros para BD  
+  * Arquitetura ANSI-SPARC: Níveis Externo, Conceptual, Interno e Físico  
+  * Independência de dados: lógica e física  
+  * Modelos de dados: MER, MER Estendido (generalização, especialização, agregação, composição)  
+  * Normalização: 1FN, 2FN, 3FN, BCNF, 4FN, 5FN  
+  * Modelo relacional e álgebra relacional (seleção, projeção, união, junção, funções de agregação)  
+  * Ciclo de vida de BD: desenho conceptual, lógico e físico  
+  * SQL: DML, DDL, DCL, controlo de transação, SELECT, joins, subqueries, funções, views, índices  
+  * PL/SQL: blocos, variáveis, cursores, subprogramas (procedures/functions), triggers
+
+**Competências desenvolvidas:**
+  * Criar e gerir bases de dados relacionais  
+  * Construir diagramas ER e modelos relacionais  
+  * Aplicar normalização e desnormalização controlada  
+  * Escrever queries SQL complexas e blocos PL/SQL  
+  * Implementar integridade, segurança e triggers em SGBD Oracle
+
+</WRAP>
+----
+===== 📚 Recursos Disponíveis =====
+==== Material de Apoio ====
+<WRAP group>
+<WRAP half column>
+<WRAP round box>
+**📂 Pasta da Disciplina no Drive**
+Slides teóricos, exercícios resolvidos, fichas práticas com soluções comentadas e exemplos de SQL/PLSQL. Inclui também mini-projetos de consolidação.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://drive.google.com/drive/folders/1OGlr_HUDMuc3Qgcbn5sYe1juOlvDSs_a?usp=sharing|Aceder ao Material]]
+
+</WRAP>
+</WRAP>
+<WRAP half column>
+<WRAP round info>
+**📝 O Que Encontras**
+  * Slides teóricos por tópico  
+  * Exercícios progressivos (básico → avançado)  
+  * Templates SQL e PL/SQL comentados  
+  * Guias de instalação (Oracle, SQL*Plus/SQLcl)  
+  * Exemplos de exames anteriores  
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+===== 💡 Dicas de Estudo =====
+<WRAP round tip 100%>
+  * Pratica diariamente queries SQL e blocos PL/SQL  
+  * Constrói diagramas ER antes de modelar a BD  
+  * Normaliza tabelas para reduzir redundância e inconsistência  
+  * Testa triggers e procedimentos em ambientes controlados  
+  * Revê exemplos de exames e exercícios comentados
+
+</WRAP>
+----
+<WRAP centeralign>
+===== ➕ Contribuir =====
+**Tens material útil para esta disciplina?** [[contribuir:add|Partilha aqui!]]
+</WRAP>
+----
+<WRAP centeralign lo>
+[[:start|← Voltar à Página Principal]]
+</WRAP>

@@ -1,0 +1,536 @@
+1761218806	127.0.0.1	E	start	htajnr			-80
+1761487762	127.0.0.1	C	disciplinas:ip:start		created - external edit		0
+1761487762	127.0.0.1	C	disciplinas:redes:start		created - external edit		0
+1761487762	127.0.0.1	C	disciplinas:prog-web:start		created - external edit		0
+1761487762	127.0.0.1	C	disciplinas:paradigmas:start		created - external edit		0
+1761487762	127.0.0.1	C	disciplinas:bdi:start		created - external edit		0
+1761487762	127.0.0.1	C	disciplinas:so:start		created - external edit		0
+1761487762	127.0.0.1	C	disciplinas:aed:start		created - external edit		0
+1761487762	127.0.0.1	C	disciplinas:amiii:start		created - external edit		0
+1761487762	127.0.0.1	C	disciplinas:pe:start		created - external edit		0
+1761487762	127.0.0.1	C	disciplinas:fisica:start		created - external edit		0
+1761487762	127.0.0.1	C	disciplinas:md:start		created - external edit		0
+1761487762	127.0.0.1	C	disciplinas:alga:start		created - external edit		0
+1761487762	127.0.0.1	C	disciplinas:amii:start		created - external edit		0
+1761487762	127.0.0.1	C	disciplinas:ctp:start		created - external edit		0
+1761487762	127.0.0.1	C	disciplinas:pooi:start		created - external edit		0
+1761487762	127.0.0.1	C	disciplinas:ingles:start		created - external edit		0
+1761487762	127.0.0.1	C	disciplinas:tec:start		created - external edit		0
+1761488287	127.0.0.1	C	disciplinas:teoriacomp:start		created - external edit		1
+1761488300	127.0.0.1	C	disciplinas:pooii:start		created - external edit		1
+1761488474	127.0.0.1	C	contribuir:add		created - external edit		0
+1761488474	127.0.0.1	C	contribuir:report		created - external edit		0
+1761488474	127.0.0.1	C	contribuir:diretrizes		created - external edit		0
+1761488536	127.0.0.1	E	start		external edit		772
+1761488559	127.0.0.1	C	contribuir:contacto		created - external edit		0
+1761497424	127.0.0.1	C	disciplinas:ac:start		created - external edit		747
+1761497638	127.0.0.1	E	disciplinas:ac:start	htajnr			1955
+1761497652	127.0.0.1	E	disciplinas:ac:start	htajnr			-2
+1761497699	127.0.0.1	E	disciplinas:ac:start	htajnr			27
+1761497769	127.0.0.1	E	disciplinas:ac:start	htajnr	[Avaliação] 		28
+1761497798	127.0.0.1	E	disciplinas:ac:start	htajnr	[Metodologia] 		-13
+1761497827	127.0.0.1	E	disciplinas:ac:start	htajnr	[Metodologia] 		-27
+1761497882	127.0.0.1	E	disciplinas:ac:start	htajnr	[Avaliação] 		-8
+1761497925	127.0.0.1	E	disciplinas:ac:start	htajnr			-292
+1761498536	127.0.0.1	E	disciplinas:ac:start	htajnr			-148
+1761498590	127.0.0.1	E	disciplinas:ac:start	htajnr	[📚 Recursos Disponíveis] 		-25
+1761498634	127.0.0.1	E	disciplinas:ac:start	htajnr	[➕ Contribuir] 		27
+1761498690	127.0.0.1	E	disciplinas:ac:start	htajnr	[📚 Recursos Disponíveis] 		-15
+1761498730	127.0.0.1	E	disciplinas:ac:start	htajnr	[📚 Recursos Disponíveis] 		-8
+1761499130	127.0.0.1	E	disciplinas:ac:start	htajnr			-1812
+1761499243	127.0.0.1	E	disciplinas:ac:start	htajnr			1812
+1761499267	127.0.0.1	E	disciplinas:ac:start	htajnr			-1812
+1761507175	127.0.0.1	E	start	htajnr	[🛠️ Recursos Essenciais] 		-289
+1761507273	127.0.0.1	C	recursos:ides		created - external edit		0
+1761507273	127.0.0.1	C	recursos:git		created - external edit		0
+1761507273	127.0.0.1	C	recursos:livros		created - external edit		0
+1761507273	127.0.0.1	C	recursos:metodos		created - external edit		0
+1761507273	127.0.0.1	C	recursos:preparacao		created - external edit		0
+1761507273	127.0.0.1	C	recursos:tutoriais		created - external edit		0
+1761507273	127.0.0.1	C	recursos:plataformas		created - external edit		0
+1761507674	127.0.0.1	E	start	htajnr	[🛠️ Recursos Essenciais] 		-98
+1761507731	127.0.0.1	E	start	htajnr	[🛠️ Recursos Essenciais] 		-1
+1761507756	127.0.0.1	E	start	htajnr	[🛠️ Recursos Essenciais] 		-45
+1761508279	127.0.0.1	E	contribuir:add	htajnr			1385
+1761508370	127.0.0.1	E	contribuir:report	htajnr			1163
+1761508406	127.0.0.1	E	contribuir:diretrizes	htajnr			2113
+1761508583	127.0.0.1	E	contribuir:contacto	htajnr			1538
+1761508808	127.0.0.1	E	recursos:ides	htajnr			2445
+1761508845	127.0.0.1	E	recursos:git	htajnr			2445
+1761508855	127.0.0.1	E	recursos:livros	htajnr			2445
+1761508870	127.0.0.1	E	recursos:metodos	htajnr			2445
+1761508879	127.0.0.1	E	recursos:preparacao	htajnr			2445
+1761508890	127.0.0.1	E	recursos:tutoriais	htajnr			2445
+1761508902	127.0.0.1	E	recursos:plataformas	htajnr			2445
+1761508925	127.0.0.1	E	start	htajnr	[🛠️ Recursos Essenciais] 		-1
+1761509024	127.0.0.1	E	recursos:ides	htajnr			1
+1761509052	127.0.0.1	E	recursos:ides	htajnr			-33
+1761511631	127.0.0.1	E	contribuir:add	htajnr			-119
+1761511677	127.0.0.1	E	contribuir:report	htajnr			-379
+1761511990	127.0.0.1	E	contribuir:add	htajnr			-295
+1761512067	127.0.0.1	E	contribuir:add	htajnr			-3
+1761512190	127.0.0.1	E	contribuir:add	htajnr			82
+1761512493	127.0.0.1	E	contribuir:add	htajnr			-66
+1761513271	127.0.0.1	E	contribuir:add	htajnr			359
+1761513311	127.0.0.1	E	contribuir:report	htajnr			110
+1761515911	127.0.0.1	E	recursos:git		external edit		137
+1761517047	127.0.0.1	E	contribuir:add	htajnr			-583
+1761517062	127.0.0.1	E	contribuir:add	htajnr			1
+1761517084	127.0.0.1	E	contribuir:add	htajnr			25
+1761517802	127.0.0.1	E	contribuir:report	htajnr			-413
+1761518078	127.0.0.1	E	contribuir:report	htajnr			-123
+1761518103	127.0.0.1	E	contribuir:report	htajnr			25
+1761518169	127.0.0.1	E	contribuir:report	htajnr			18
+1761518385	127.0.0.1	E	contribuir:report	htajnr			-2
+1761518551	127.0.0.1	E	start	htajnr	[🤝 Contribuir para a Comunidade] 		-8
+1761518580	127.0.0.1	E	start	htajnr	[🤝 Contribuir para a Comunidade] 		8
+1761518698	127.0.0.1	E	contribuir:contacto	htajnr			26
+1761518731	127.0.0.1	E	contribuir:contacto	htajnr	[🤝 Equipa] 		27
+1761518765	127.0.0.1	E	contribuir:contacto	htajnr	[⏱️ Tempo de Resposta] 		54
+1761518798	127.0.0.1	E	contribuir:contacto	htajnr	[💬 Redes Sociais] 		4
+1761518843	127.0.0.1	E	contribuir:contacto	htajnr	[💬 Redes Sociais] 		-4
+1761518894	127.0.0.1	E	contribuir:contacto	htajnr			0
+1761518911	127.0.0.1	E	contribuir:contacto	htajnr			0
+1761519753	127.0.0.1	E	contribuir:contacto	htajnr			10
+1761519789	127.0.0.1	E	contribuir:diretrizes	htajnr			10
+1761519817	127.0.0.1	E	contribuir:diretrizes	htajnr			24
+1761519827	127.0.0.1	E	contribuir:diretrizes	htajnr			4
+1761519850	127.0.0.1	E	contribuir:diretrizes	htajnr			11
+1761519861	127.0.0.1	E	contribuir:diretrizes	htajnr			-9
+1761519880	127.0.0.1	E	contribuir:diretrizes	htajnr			1
+1761519943	127.0.0.1	E	contribuir:diretrizes	htajnr			100
+1761519999	127.0.0.1	E	contribuir:diretrizes	htajnr			-9
+1761520010	127.0.0.1	E	contribuir:diretrizes	htajnr			9
+1761520093	127.0.0.1	E	contribuir:diretrizes	htajnr			0
+1761520125	127.0.0.1	E	contribuir:diretrizes	htajnr			0
+1761520244	127.0.0.1	E	contribuir:contacto	htajnr	[Contacto] 		4
+1761520336	127.0.0.1	E	contribuir:contacto	htajnr	[💬 Redes Sociais] 		-16
+1761520413	127.0.0.1	E	contribuir:contacto	htajnr			4
+1761520434	127.0.0.1	E	contribuir:contacto	htajnr	[💬 Redes Sociais] 		1
+1761520882	127.0.0.1	E	contribuir:contacto	htajnr	[Contacto] 		11
+1761521830	127.0.0.1	E	start	htajnr			1
+1761521857	127.0.0.1	E	start	htajnr			10
+1761527691	127.0.0.1	E	start	htajnr			-1
+1761529441	127.0.0.1	E	start	htajnr	[🤝 Contribuir para a Comunidade] 		27
+1761529468	127.0.0.1	E	start	htajnr	[🛠️ Recursos Essenciais] 		27
+1761529512	127.0.0.1	C	start		created - external edit		4416
+1761529512	127.0.0.1	E	start	htajnr			15
+1761530169	127.0.0.1	E	contribuir:report	htajnr			0
+1761530207	127.0.0.1	E	contribuir:report	htajnr			0
+1761530223	127.0.0.1	E	contribuir:report	htajnr			0
+1761566540	127.0.0.1	C	disciplinas:compiladores:start		created - external edit		733
+1761566540	127.0.0.1	C	disciplinas:si:start		created - external edit		733
+1761566540	127.0.0.1	C	disciplinas:ssr:start		created - external edit		733
+1761566540	127.0.0.1	C	disciplinas:marketing:start		created - external edit		733
+1761566540	127.0.0.1	C	disciplinas:tcc:start		created - external edit		733
+1761566540	127.0.0.1	C	disciplinas:multimedia:start		created - external edit		733
+1761566540	127.0.0.1	C	disciplinas:sd:start		created - external edit		733
+1761566540	127.0.0.1	C	disciplinas:gsr:start		created - external edit		733
+1761566540	127.0.0.1	C	disciplinas:gestao:start		created - external edit		733
+1761566540	127.0.0.1	C	disciplinas:es:start		created - external edit		733
+1761566540	127.0.0.1	C	disciplinas:fc:start		created - external edit		733
+1761566540	127.0.0.1	C	disciplinas:edp:start		created - external edit		733
+1761566540	127.0.0.1	C	disciplinas:ia:start		created - external edit		733
+1761572122	127.0.0.1	E	disciplinas:compiladores:start	htajnr			-285
+1761572122	127.0.0.1	C	disciplinas:compm:start		created - external edit		448
+1761572122	127.0.0.1	C	disciplinas:di:start		created - external edit		448
+1761572122	127.0.0.1	C	disciplinas:ec:start		created - external edit		448
+1761572122	127.0.0.1	C	disciplinas:comum:start		created - external edit		448
+1761572122	127.0.0.1	C	disciplinas:bdii:start		created - external edit		448
+1761572210	127.0.0.1	E	disciplinas:si:start	htajnr			-273
+1761572227	127.0.0.1	E	disciplinas:si:start	htajnr			-22
+1761572245	127.0.0.1	E	disciplinas:si:start	htajnr			2
+1761572263	127.0.0.1	E	disciplinas:compiladores:start	htajnr			-20
+1761572398	127.0.0.1	E	disciplinas:compm:start	htajnr			-13
+1761572426	127.0.0.1	E	disciplinas:di:start	htajnr			-12
+1761572458	127.0.0.1	E	disciplinas:ssr:start	htajnr			-287
+1761572482	127.0.0.1	E	disciplinas:marketing:start	htajnr			-308
+1761572515	127.0.0.1	E	disciplinas:ec:start	htajnr			-13
+1761572545	127.0.0.1	E	disciplinas:tcc:start	htajnr			-293
+1761572581	127.0.0.1	E	disciplinas:multimedia:start	htajnr			-306
+1761572610	127.0.0.1	E	disciplinas:sd:start	htajnr			-295
+1761572649	127.0.0.1	E	disciplinas:gsr:start	htajnr			-289
+1761572682	127.0.0.1	E	disciplinas:comum:start	htajnr			-11
+1761572727	127.0.0.1	E	disciplinas:gestao:start	htajnr			-310
+1761572783	127.0.0.1	E	disciplinas:es:start	htajnr			-282
+1761575192	127.0.0.1	E	contribuir:report	htajnr			0
+1761575224	127.0.0.1	E	contribuir:report	htajnr			0
+1761575236	127.0.0.1	E	contribuir:report	htajnr			-1
+1761575249	127.0.0.1	E	contribuir:report	htajnr			0
+1761575259	127.0.0.1	E	contribuir:report	htajnr			0
+1761575539	127.0.0.1	E	disciplinas:ip:start	htajnr			2246
+1761591557	127.0.0.1	D	home		removed - external edit (Unknown date)		0
+1761591558	127.0.0.1	C	home	htajnr	↷ Page name changed from start to home		4416
+1761591558	127.0.0.1	D	start	htajnr	↷ Page name changed from start to home		-4416
+1761591559	127.0.0.1	e	disciplinas:fc:start	htajnr	↷ Links adapted because of a move operation		-36
+1761591559	127.0.0.1	e	disciplinas:ip:start	htajnr	↷ Links adapted because of a move operation		-1
+1761591560	127.0.0.1	e	disciplinas:es:start	htajnr	↷ Links adapted because of a move operation		-1
+1761591560	127.0.0.1	e	disciplinas:gestao:start	htajnr	↷ Links adapted because of a move operation		-1
+1761591560	127.0.0.1	e	disciplinas:comum:start	htajnr	↷ Links adapted because of a move operation		-1
+1761591560	127.0.0.1	e	disciplinas:gsr:start	htajnr	↷ Links adapted because of a move operation		-1
+1761591560	127.0.0.1	e	disciplinas:sd:start	htajnr	↷ Links adapted because of a move operation		-1
+1761591560	127.0.0.1	e	disciplinas:tcc:start	htajnr	↷ Links adapted because of a move operation		-1
+1761591561	127.0.0.1	e	disciplinas:ec:start	htajnr	↷ Links adapted because of a move operation		-1
+1761591561	127.0.0.1	e	disciplinas:marketing:start	htajnr	↷ Links adapted because of a move operation		-1
+1761591561	127.0.0.1	e	disciplinas:ssr:start	htajnr	↷ Links adapted because of a move operation		-1
+1761591561	127.0.0.1	e	disciplinas:di:start	htajnr	↷ Links adapted because of a move operation		-1
+1761591561	127.0.0.1	e	disciplinas:compm:start	htajnr	↷ Links adapted because of a move operation		-1
+1761591562	127.0.0.1	e	disciplinas:si:start	htajnr	↷ Links adapted because of a move operation		-1
+1761591562	127.0.0.1	e	disciplinas:compiladores:start	htajnr	↷ Links adapted because of a move operation		-1
+1761591562	127.0.0.1	e	disciplinas:multimedia:start	htajnr	↷ Links adapted because of a move operation		-1
+1761591562	127.0.0.1	e	recursos:plataformas	htajnr	↷ Links adapted because of a move operation		-1
+1761591562	127.0.0.1	e	recursos:tutoriais	htajnr	↷ Links adapted because of a move operation		-1
+1761591562	127.0.0.1	e	recursos:preparacao	htajnr	↷ Links adapted because of a move operation		-1
+1761591563	127.0.0.1	e	recursos:metodos	htajnr	↷ Links adapted because of a move operation		-1
+1761591563	127.0.0.1	e	recursos:livros	htajnr	↷ Links adapted because of a move operation		-1
+1761591563	127.0.0.1	e	recursos:git	htajnr	↷ Links adapted because of a move operation		-138
+1761591563	127.0.0.1	e	recursos:ides	htajnr	↷ Links adapted because of a move operation		-1
+1761591564	127.0.0.1	e	contribuir:contacto	htajnr	↷ Links adapted because of a move operation		-1
+1761591564	127.0.0.1	e	contribuir:diretrizes	htajnr	↷ Links adapted because of a move operation		-1
+1761591564	127.0.0.1	e	contribuir:report	htajnr	↷ Links adapted because of a move operation		-1
+1761591564	127.0.0.1	e	contribuir:add	htajnr	↷ Links adapted because of a move operation		-1
+1761591564	127.0.0.1	e	wiki:welcome	htajnr	↷ Links adapted because of a move operation		-1
+1761591578	127.0.0.1	C	start	htajnr	created		842
+1761591613	127.0.0.1	E	start	htajnr			2525
+1761591710	127.0.0.1	E	start	htajnr			-8
+1761591756	127.0.0.1	E	start	htajnr			3
+1761591782	127.0.0.1	E	start	htajnr			0
+1761592914	127.0.0.1	E	start	htajnr			-2552
+1761592972	127.0.0.1	E	start	htajnr			-1
+1761592983	127.0.0.1	E	start	htajnr			0
+1761593004	127.0.0.1	E	start	htajnr			-3
+1761593023	127.0.0.1	E	start	htajnr			3
+1761593040	127.0.0.1	E	start	htajnr			-6
+1761593092	127.0.0.1	e	home	htajnr	↷ Links adapted because of a move operation		-1
+1761593337	127.0.0.1	E	start	htajnr			-9
+1761593550	127.0.0.1	E	start	htajnr			107
+1761593592	127.0.0.1	E	start	htajnr			137
+1761594277	127.0.0.1	E	start	htajnr			-163
+1761594505	127.0.0.1	E	start	htajnr			6
+1761594639	127.0.0.1	E	start	htajnr			146
+1761594676	127.0.0.1	E	start	htajnr			-6
+1761594786	127.0.0.1	E	start	htajnr			-114
+1761594853	127.0.0.1	E	start	htajnr			-6
+1761594896	127.0.0.1	E	start	htajnr			-91
+1761594940	127.0.0.1	E	start	htajnr			-5
+1761594941	127.0.0.1	E	start		external edit (Unknown date)		3610
+1761595384	127.0.0.1	E	start	htajnr	[Bem-vindo ao Uniwiki] 		1
+1761595401	127.0.0.1	E	contribuir:add	htajnr	[📋 O que precisas preparar] 		1
+1761595417	127.0.0.1	E	contribuir:diretrizes	htajnr	[Diretrizes de Contribuição] 		1
+1761595462	127.0.0.1	E	contribuir:contacto	htajnr	[Contacto] 		1
+1761595484	127.0.0.1	E	contribuir:report	htajnr			1
+1761595530	127.0.0.1	E	recursos:metodos	htajnr	[💡 Dicas de Uso] 		1
+1761595547	127.0.0.1	E	recursos:preparacao	htajnr	[💡 Dicas de Uso] 		1
+1761595562	127.0.0.1	E	recursos:plataformas	htajnr	[💡 Dicas de Uso] 		1
+1761595606	127.0.0.1	E	recursos:ides	htajnr			43
+1761595628	127.0.0.1	E	recursos:plataformas	htajnr			10
+1761595653	127.0.0.1	E	recursos:tutoriais	htajnr			11
+1761595668	127.0.0.1	E	recursos:livros	htajnr			11
+1761595683	127.0.0.1	E	recursos:preparacao	htajnr			10
+1761595693	127.0.0.1	E	recursos:metodos	htajnr			10
+1761595702	127.0.0.1	E	recursos:git	htajnr			11
+1761595753	127.0.0.1	E	disciplinas:tcc:start	htajnr			1
+1761595769	127.0.0.1	E	disciplinas:compiladores:start	htajnr			1
+1761595779	127.0.0.1	E	disciplinas:si:start	htajnr			1
+1761595795	127.0.0.1	E	disciplinas:compm:start	htajnr			1
+1761595809	127.0.0.1	E	disciplinas:di:start	htajnr			1
+1761595822	127.0.0.1	E	disciplinas:ssr:start	htajnr			1
+1761595834	127.0.0.1	E	disciplinas:marketing:start	htajnr			1
+1761595847	127.0.0.1	E	disciplinas:ec:start	htajnr			1
+1761595904	127.0.0.1	E	disciplinas:multimedia:start	htajnr			1
+1761595917	127.0.0.1	E	disciplinas:sd:start	htajnr			1
+1761595932	127.0.0.1	E	disciplinas:gsr:start	htajnr			1
+1761595944	127.0.0.1	E	disciplinas:comum:start	htajnr			1
+1761595956	127.0.0.1	E	disciplinas:gestao:start	htajnr			1
+1761596368	127.0.0.1	E	disciplinas:edp:start	htajnr			-284
+1761596390	127.0.0.1	E	start	htajnr			2
+1761596416	127.0.0.1	E	disciplinas:bdii:start	htajnr			4
+1761596444	127.0.0.1	E	disciplinas:bdii:start	htajnr			-21
+1761596495	127.0.0.1	E	disciplinas:edp:start	htajnr			0
+1761596530	127.0.0.1	E	disciplinas:ia:start	htajnr			-293
+1761596559	127.0.0.1	E	disciplinas:teoriacomp:start	htajnr			437
+1761596580	127.0.0.1	E	disciplinas:es:start	htajnr			1
+1761596612	127.0.0.1	E	disciplinas:fc:start	htajnr			-253
+1761596658	127.0.0.1	E	recursos:livros	htajnr			5
+1761597835	127.0.0.1	E	disciplinas:redes:start	htajnr			2213
+1761597852	127.0.0.1	E	disciplinas:redes:start	htajnr			10
+1761597890	127.0.0.1	E	disciplinas:prog-web:start	htajnr			2219
+1761597918	127.0.0.1	E	disciplinas:paradigmas:start	htajnr			2229
+1761597944	127.0.0.1	E	disciplinas:bdi:start	htajnr			2218
+1761597997	127.0.0.1	E	disciplinas:so:start	htajnr			2234
+1761598035	127.0.0.1	E	disciplinas:aed:start	htajnr			2247
+1761598074	127.0.0.1	E	disciplinas:pooii:start	htajnr			2238
+1761598102	127.0.0.1	E	disciplinas:amiii:start	htajnr			2224
+1761598134	127.0.0.1	E	disciplinas:pe:start	htajnr			2229
+1761598163	127.0.0.1	E	disciplinas:fisica:start	htajnr			2209
+1761598220	127.0.0.1	E	disciplinas:ip:start	htajnr			-14
+1761598256	127.0.0.1	E	disciplinas:md:start	htajnr			2234
+1761598293	127.0.0.1	E	disciplinas:ac:start	htajnr			1796
+1761598330	127.0.0.1	E	disciplinas:alga:start	htajnr			2240
+1761598357	127.0.0.1	E	disciplinas:amii:start	htajnr			2234
+1761598388	127.0.0.1	E	disciplinas:ctp:start	htajnr			2232
+1761598430	127.0.0.1	E	disciplinas:pooi:start	htajnr			2237
+1761598452	127.0.0.1	E	disciplinas:ingles:start	htajnr			2222
+1761598483	127.0.0.1	E	disciplinas:tec:start	htajnr			2229
+1761598539	127.0.0.1	E	recursos:livros	htajnr			-29
+1761600216	127.0.0.1	E	recursos:livros	htajnr			5994
+1761600245	127.0.0.1	E	recursos:livros	htajnr			-5
+1761600386	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		24
+1761600655	127.0.0.1	E	recursos:livros	htajnr	[📖 Sobre Este Recurso] 		27
+1761600681	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		27
+1761600705	127.0.0.1	E	recursos:livros	htajnr			-1
+1761600736	127.0.0.1	E	recursos:livros	htajnr	[💾 Algoritmos e Estrutura de Dados I & II] 		27
+1761600753	127.0.0.1	E	recursos:livros	htajnr	[🗄️ Base de Dados I] 		27
+1761600779	127.0.0.1	E	recursos:livros	htajnr	[🔄 Paradigmas de Programação] 		27
+1761600806	127.0.0.1	E	recursos:livros	htajnr	[⚙️ Sistemas Operativos I & II] 		26
+1761600848	127.0.0.1	E	recursos:livros	htajnr	[Livros das Disciplinas] 		5
+1761600891	127.0.0.1	E	recursos:livros	htajnr	[Livros das Disciplinas] 		-10
+1761600911	127.0.0.1	E	recursos:livros	htajnr	[Livros das Disciplinas] 		5
+1761600925	127.0.0.1	E	recursos:livros	htajnr	[Livros das Disciplinas] 		5
+1761600955	127.0.0.1	E	recursos:livros	htajnr	[Livros das Disciplinas] 		-5
+1761601048	127.0.0.1	E	recursos:livros	htajnr	[💡 Dicas de Uso] 		-45
+1761601164	127.0.0.1	E	recursos:livros	htajnr			12
+1761601194	127.0.0.1	E	recursos:livros	htajnr			0
+1761601230	127.0.0.1	E	recursos:livros	htajnr			0
+1761601255	127.0.0.1	E	recursos:livros	htajnr			0
+1761601293	127.0.0.1	E	recursos:livros	htajnr			0
+1761601314	127.0.0.1	E	recursos:livros	htajnr			0
+1761601387	127.0.0.1	E	recursos:livros	htajnr			0
+1761601536	127.0.0.1	C	detalhes:calculo-diferencial	htajnr	created		5298
+1761602444	127.0.0.1	E	recursos:livros	htajnr			-266
+1761602573	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		-28
+1761602608	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		-21
+1761602696	127.0.0.1	E	recursos:livros	htajnr	[💾 Algoritmos e Estrutura de Dados I & II] 		-65
+1761602714	127.0.0.1	E	recursos:livros	htajnr	[💡 Dicas de Uso] 		-45
+1761602768	127.0.0.1	E	recursos:livros	htajnr	[📖 Sobre Este Recurso] 		26
+1761602794	127.0.0.1	E	recursos:livros	htajnr	[📚 Livros das Disciplinas] 		1
+1761604859	127.0.0.1	E	recursos:livros	htajnr			-159
+1761604890	127.0.0.1	E	recursos:livros	htajnr			-97
+1761604960	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		-128
+1761605021	127.0.0.1	E	recursos:livros	htajnr	[💾 Algoritmos e Estrutura de Dados I & II] 		-413
+1761605073	127.0.0.1	E	recursos:livros	htajnr	[🗄️ Base de Dados I] 		-298
+1761605140	127.0.0.1	E	recursos:livros	htajnr	[🔄 Paradigmas de Programação] 		-650
+1761605184	127.0.0.1	E	recursos:livros	htajnr	[⚙️ Sistemas Operativos I & II] 		-174
+1761606066	127.0.0.1	E	recursos:livros	htajnr			-486
+1761606345	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		74
+1761606421	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		-6
+1761606742	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		-32
+1761606794	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		-13
+1761606811	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		-3
+1761606843	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		-16
+1761606856	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		15
+1761606883	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		-1
+1761606944	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		16
+1761606970	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		-56
+1761606989	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		11
+1761607019	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		2
+1761607041	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		45
+1761607057	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		1
+1761607070	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		5
+1761607137	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		-2
+1761607171	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		1
+1761607206	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		11
+1761607263	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		40
+1761607275	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		-1
+1761607725	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		0
+1761607760	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		-19
+1761607800	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		13
+1761607818	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		3
+1761607842	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		-4
+1761607862	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		-52
+1761608409	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		14
+1761608439	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		-8
+1761608463	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		70
+1761608517	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		-50
+1761608532	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		0
+1761608545	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		-6
+1761608572	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		76
+1761608593	127.0.0.1	R	recursos:livros	htajnr	old revision restored (2025/10/28 00:42)	1761608545	-76
+1761608626	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		68
+1761608664	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		23
+1761608762	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		-23
+1761608939	127.0.0.1	E	recursos:livros	htajnr	[💾 Algoritmos e Estrutura de Dados I & II] 		179
+1761609026	127.0.0.1	E	recursos:livros	htajnr	[🔄 Paradigmas de Programação] 		58
+1761609315	127.0.0.1	E	recursos:livros	htajnr	[🔄 Paradigmas de Programação] 		46
+1761609365	127.0.0.1	E	recursos:livros	htajnr	[🔄 Paradigmas de Programação] 		0
+1761609386	127.0.0.1	E	recursos:livros	htajnr	[🔄 Paradigmas de Programação] 		-46
+1761609485	127.0.0.1	E	recursos:livros	htajnr	[🔄 Paradigmas de Programação] 		59
+1761609522	127.0.0.1	E	recursos:livros	htajnr	[🔄 Paradigmas de Programação] 		2
+1761609554	127.0.0.1	E	recursos:livros	htajnr	[🔄 Paradigmas de Programação] 		-9
+1761609699	127.0.0.1	E	recursos:livros	htajnr	[🔄 Paradigmas de Programação] 		137
+1761609713	127.0.0.1	E	recursos:livros	htajnr	[🔄 Paradigmas de Programação] 		-1
+1761609871	127.0.0.1	E	recursos:livros	htajnr	[🔄 Paradigmas de Programação] 		-136
+1761609961	127.0.0.1	E	recursos:livros	htajnr	[🔄 Paradigmas de Programação] 		60
+1761610136	127.0.0.1	E	recursos:livros	htajnr	[🔄 Paradigmas de Programação] 		117
+1761610261	127.0.0.1	E	recursos:livros	htajnr	[⚙️ Sistemas Operativos I & II] 		55
+1761610889	127.0.0.1	E	recursos:livros	htajnr	[⚙️ Sistemas Operativos I & II] 		64
+1761611209	127.0.0.1	E	recursos:livros	htajnr	[🔄 Paradigmas de Programação] 		63
+1761611226	127.0.0.1	R	recursos:livros	htajnr	old revision restored (2025/10/28 01:21)	1761610889	-63
+1761611241	127.0.0.1	E	recursos:livros	htajnr	[🔄 Paradigmas de Programação] 		69
+1761611650	127.0.0.1	E	recursos:livros	htajnr	[🗄️ Base de Dados I] 		239
+1761611908	127.0.0.1	E	recursos:livros	htajnr	[💾 Algoritmos e Estrutura de Dados I & II] 		178
+1761612183	127.0.0.1	E	recursos:livros	htajnr	[📕 Análise Matemática I & II] 		74
+1761612277	127.0.0.1	E	recursos:livros	htajnr	[💾 Algoritmos e Estrutura de Dados I & II] 		-63
+1761612336	127.0.0.1	E	recursos:livros	htajnr	[🔄 Paradigmas de Programação] 		-69
+1761612395	127.0.0.1	E	recursos:livros	htajnr	[💡 Dicas de Uso] 		-217
+1761612469	127.0.0.1	E	recursos:livros	htajnr	[💡 Dicas de Uso] 		93
+1761612505	127.0.0.1	E	recursos:livros	htajnr	[💡 Dicas de Uso] 		-8
+1761612571	127.0.0.1	E	recursos:livros	htajnr	[💡 Dicas de Uso] 		127
+1761612581	127.0.0.1	E	recursos:livros	htajnr	[💡 Dicas de Uso] 		-43
+1761612668	127.0.0.1	R	recursos:livros	htajnr	old revision restored (2025/10/28 01:46)	1761612395	-169
+1761612692	127.0.0.1	E	recursos:livros	htajnr	[💡 Dicas de Uso] 		0
+1761612823	127.0.0.1	E	contribuir:contacto	htajnr	[Contacto] 		82
+1761612935	127.0.0.1	E	contribuir:contacto	htajnr	[Contacto] 		15
+1761612979	127.0.0.1	E	contribuir:contacto	htajnr	[Contacto] 		-20
+1761613022	127.0.0.1	E	contribuir:contacto	htajnr	[Contacto] 		2
+1761613141	127.0.0.1	E	contribuir:add	htajnr	[Adicionar Recursos] 		42
+1761613212	127.0.0.1	E	disciplinas:compiladores:start	htajnr			0
+1761613409	127.0.0.1	E	start	htajnr			-35
+1761613457	127.0.0.1	E	start	htajnr			-37
+1761614328	127.0.0.1	E	start	htajnr			7
+1761614347	127.0.0.1	E	recursos:ides	htajnr			3142
+1761614375	127.0.0.1	E	recursos:ides	htajnr			-8
+1761614391	127.0.0.1	E	recursos:livros	htajnr			-5
+1761614666	127.0.0.1	E	recursos:ides	htajnr	[☕ Ambientes de Desenvolvimento Java] 		-21
+1761614857	127.0.0.1	E	recursos:ides	htajnr	[☕ Ambientes de Desenvolvimento Java] 		-15
+1761615136	127.0.0.1	E	recursos:ides	htajnr	[☕ Ambientes de Desenvolvimento Java] 		-32
+1761615279	127.0.0.1	E	recursos:ides	htajnr	[💡 Guia de Instalação Rápida] 		-15
+1761615490	127.0.0.1	E	recursos:ides	htajnr	[☕ Ambientes de Desenvolvimento Java] 		199
+1761615558	127.0.0.1	E	recursos:ides	htajnr	[☕ Ambientes de Desenvolvimento Java] 		-5
+1761615628	127.0.0.1	E	recursos:ides	htajnr	[🌐 Desenvolvimento Web] 		168
+1761615738	127.0.0.1	E	recursos:ides	htajnr	[🔌 Simulação e Virtualização] 		168
+1761616004	127.0.0.1	E	recursos:ides	htajnr	[🔌 Simulação e Virtualização] 		115
+1761616036	127.0.0.1	E	recursos:ides	htajnr	[🔌 Simulação e Virtualização] 		-10
+1761616058	127.0.0.1	E	recursos:ides	htajnr	[💡 Guia de Instalação Rápida] 		1
+1761616075	127.0.0.1	E	recursos:ides	htajnr	[💡 Guia de Instalação Rápida] 		-50
+1761616128	127.0.0.1	E	recursos:ides	htajnr	[☕ Ambientes de Desenvolvimento Java] 		63
+1761616324	127.0.0.1	E	recursos:ides	htajnr	[🔌 Simulação e Virtualização] 		53
+1761616365	127.0.0.1	E	recursos:ides	htajnr	[🗄️ Base de Dados e Transferência de Ficheiros] 		84
+1761616450	127.0.0.1	E	recursos:ides	htajnr	[📐 Diagramação e Modelagem] 		164
+1761616464	127.0.0.1	E	recursos:ides	htajnr	[📐 Diagramação e Modelagem] 		0
+1761616474	127.0.0.1	E	recursos:ides	htajnr	[📐 Diagramação e Modelagem] 		2
+1761616553	127.0.0.1	E	recursos:ides	htajnr	[🧮 Programação em C/C++] 		84
+1761616663	127.0.0.1	E	recursos:ides	htajnr	[🔤 Paradigmas de Programação] 		252
+1761616972	127.0.0.1	E	recursos:ides	htajnr	[🔤 Paradigmas de Programação] 		127
+1761617012	127.0.0.1	E	recursos:ides	htajnr	[🔤 Paradigmas de Programação] 		124
+1761617071	127.0.0.1	E	start	htajnr			-53
+1761617139	127.0.0.1	E	start	htajnr			19
+1761618106	127.0.0.1	E	recursos:tutoriais	htajnr			4934
+1761618121	127.0.0.1	E	recursos:tutoriais	htajnr			-5
+1761618562	127.0.0.1	E	recursos:tutoriais	htajnr	[Conteúdo em Português] 		-15
+1761622231	127.0.0.1	E	recursos:preparacao	htajnr			4576
+1761622263	127.0.0.1	E	recursos:preparacao	htajnr			-5
+1761623075	127.0.0.1	E	disciplinas:ip:start	htajnr			-936
+1761623106	127.0.0.1	E	disciplinas:ip:start	htajnr	[Livros e Documentação] 		-64
+1761623131	127.0.0.1	E	disciplinas:ip:start	htajnr	[Ferramentas Essenciais] 		-72
+1761623159	127.0.0.1	E	disciplinas:ip:start	htajnr	[Material de Apoio] 		-52
+1761623324	127.0.0.1	E	disciplinas:ip:start	htajnr			12
+1761623369	127.0.0.1	E	disciplinas:prog-web:start	htajnr			4164
+1761633454	127.0.0.1	E	recursos:preparacao	htajnr	[📚 Guias de Estudo por Disciplina] 		130
+1761633793	127.0.0.1	E	disciplinas:ip:start	htajnr			1467
+1761634192	127.0.0.1	E	recursos:preparacao	htajnr	[📚 Guias de Estudo por Disciplina] 		-112
+1761634484	127.0.0.1	E	recursos:tutoriais	htajnr	[🌐 Plataformas de Aprendizagem Completas] 		250
+1761634513	127.0.0.1	R	recursos:tutoriais	htajnr	old revision restored (2025/10/28 03:29)	1761618562	-250
+1761634534	127.0.0.1	E	recursos:tutoriais	htajnr	[🌐 Plataformas de Aprendizagem Completas] 		83
+1761634549	127.0.0.1	R	recursos:tutoriais	htajnr	old revision restored (2025/10/28 07:55)	1761634513	-83
+1761634595	127.0.0.1	E	disciplinas:ip:start	htajnr			220
+1761634622	127.0.0.1	E	disciplinas:ip:start	htajnr			1
+1761634630	127.0.0.1	E	recursos:tutoriais	htajnr	[🌐 Plataformas de Aprendizagem Completas] 		361
+1761634648	127.0.0.1	E	recursos:tutoriais	htajnr	[🌐 Plataformas de Aprendizagem Completas] 		-109
+1761634672	127.0.0.1	E	disciplinas:ip:start	htajnr			38
+1761634684	127.0.0.1	D	disciplinas:ip:start	htajnr	removed		-2845
+1761634695	127.0.0.1	C	disciplinas:ip:start	htajnr	created		2806
+1761634731	127.0.0.1	E	recursos:tutoriais	htajnr	[🎮 Gamificação: Aprende Jogando] 		168
+1761634743	127.0.0.1	E	disciplinas:md:start	htajnr			572
+1761634808	127.0.0.1	E	disciplinas:md:start	htajnr	[Material de Apoio] 		-54
+1761634825	127.0.0.1	E	recursos:tutoriais	htajnr	[🏆 Plataformas de Desafios e Competição] 		252
+1761634862	127.0.0.1	E	disciplinas:md:start	htajnr			3
+1761634862	127.0.0.1	E	disciplinas:ip:start		external edit		-51
+1761635031	127.0.0.1	E	disciplinas:ip:start	htajnr	[Recursos Externos Recomendados] 		-349
+1761635046	127.0.0.1	E	disciplinas:ip:start	htajnr	[💡 Dicas de Estudo] 		5
+1761635215	127.0.0.1	E	disciplinas:md:start	htajnr			-9
+1761635234	127.0.0.1	E	disciplinas:md:start	htajnr			7
+1761635254	127.0.0.1	E	recursos:tutoriais	htajnr	[📖 Recursos Complementares] 		251
+1761635340	127.0.0.1	E	recursos:tutoriais	htajnr	[Programação Geral] 		168
+1761635404	127.0.0.1	E	recursos:tutoriais	htajnr	[Algoritmos e Estruturas de Dados] 		225
+1761635465	127.0.0.1	E	recursos:tutoriais	htajnr	[Desenvolvimento Web] 		221
+1761635563	127.0.0.1	E	recursos:tutoriais	htajnr	[Conteúdo em Português] 		252
+1761635695	127.0.0.1	E	disciplinas:md:start	htajnr			1483
+1761635735	127.0.0.1	E	disciplinas:md:start	htajnr			0
+1761635758	127.0.0.1	E	disciplinas:ip:start	htajnr			4
+1761635829	127.0.0.1	E	disciplinas:md:start	htajnr	[Material de Apoio] 		-54
+1761635844	127.0.0.1	E	disciplinas:md:start	htajnr	[Recursos Externos Recomendados] 		-482
+1761636084	127.0.0.1	E	disciplinas:md:start	htajnr			291
+1761636181	127.0.0.1	E	disciplinas:md:start	htajnr	[💡 Dicas de Estudo] 		-22
+1761636216	127.0.0.1	E	disciplinas:md:start	htajnr	[💡 Dicas de Estudo] 		-6
+1761636331	127.0.0.1	E	disciplinas:ip:start	htajnr	[Introdução à Programação] 		38
+1761636377	127.0.0.1	E	disciplinas:ip:start	htajnr	[Introdução à Programação] 		1
+1761636388	127.0.0.1	E	disciplinas:ip:start	htajnr	[Introdução à Programação] 		-1
+1761636398	127.0.0.1	E	disciplinas:ip:start	htajnr	[Introdução à Programação] 		0
+1761636509	127.0.0.1	E	disciplinas:ip:start	htajnr	[💡 Dicas de Estudo] 		31
+1761636530	127.0.0.1	E	disciplinas:ip:start	htajnr	[Material de Apoio] 		1
+1761644118	127.0.0.1	E	disciplinas:ip:start	htajnr	[Material de Apoio] 		84
+1761644143	127.0.0.1	E	disciplinas:md:start	htajnr	[Material de Apoio] 		84
+1761644246	127.0.0.1	E	disciplinas:md:start	htajnr	[Matemática Discreta I & II] 		4
+1761644278	127.0.0.1	E	disciplinas:md:start	htajnr	[Material de Apoio] 		2
+1761644299	127.0.0.1	E	disciplinas:md:start	htajnr	[Material de Apoio] 		-1
+1761644329	127.0.0.1	E	disciplinas:ip:start	htajnr	[Material de Apoio] 		1
+1761644344	127.0.0.1	E	disciplinas:ip:start	htajnr	[Introdução à Programação] 		1
+1761644371	127.0.0.1	E	disciplinas:ip:start	htajnr	[Introdução à Programação] 		0
+1761644931	127.0.0.1	E	disciplinas:ac:start	htajnr			1444
+1761645304	127.0.0.1	E	disciplinas:ac:start	htajnr			422
+1761645324	127.0.0.1	E	disciplinas:ac:start	htajnr	[Arquitetura de Computadores] 		0
+1761645642	127.0.0.1	E	disciplinas:alga:start	htajnr			1483
+1761645656	127.0.0.1	E	disciplinas:alga:start	htajnr	[Álgebra Linear e Geometria Analítica] 		0
+1761645802	127.0.0.1	E	disciplinas:amii:start	htajnr			2853
+1761646137	127.0.0.1	E	disciplinas:ctp:start	htajnr			589
+1761646149	127.0.0.1	E	disciplinas:ctp:start	htajnr	[Comunicação Técnico-Pessoal] 		0
+1761646354	127.0.0.1	E	disciplinas:pooi:start	htajnr			607
+1761646458	127.0.0.1	E	disciplinas:ingles:start	htajnr			1183
+1761646634	127.0.0.1	E	disciplinas:tec:start	htajnr			1039
+1761646648	127.0.0.1	E	disciplinas:tec:start	htajnr	[Tecnologias de Computadores] 		0
+1761646796	127.0.0.1	E	disciplinas:pooii:start	htajnr			419
+1761647089	127.0.0.1	E	disciplinas:aed:start	htajnr			1921
+1761647292	127.0.0.1	E	disciplinas:so:start	htajnr			2130
+1761647327	127.0.0.1	E	disciplinas:bdi:start	htajnr			-1
+1761647481	127.0.0.1	E	disciplinas:bdi:start	htajnr			2177
+1761647613	127.0.0.1	E	disciplinas:bdi:start	htajnr			-1326
+1761647625	127.0.0.1	E	disciplinas:bdi:start	htajnr	[Base de Dados I] 		0
+1761647634	127.0.0.1	E	disciplinas:bdi:start	htajnr	[Base de Dados I] 		0
+1761647704	127.0.0.1	E	disciplinas:amiii:start	htajnr			560
+1761647758	127.0.0.1	E	disciplinas:pe:start	htajnr			362
+1761647769	127.0.0.1	E	disciplinas:pe:start	htajnr	[Probabilidade e Estatística] 		0
+1761647788	127.0.0.1	E	disciplinas:pe:start	htajnr			388
+1761647799	127.0.0.1	E	disciplinas:pe:start	htajnr	[Probabilidade e Estatística] 		0
+1761647894	127.0.0.1	E	disciplinas:fisica:start	htajnr			742
+1761647903	127.0.0.1	E	disciplinas:fisica:start	htajnr	[Física] 		0
+1761648010	127.0.0.1	E	disciplinas:paradigmas:start	htajnr			741
+1761648022	127.0.0.1	E	disciplinas:paradigmas:start	htajnr	[Paradigmas de Programação] 		0
+1761648030	127.0.0.1	E	disciplinas:paradigmas:start	htajnr	[Paradigmas de Programação] 		0
+1761648139	127.0.0.1	E	disciplinas:prog-web:start	htajnr			-3551
+1761648205	127.0.0.1	E	disciplinas:redes:start	htajnr			693
+1761648214	127.0.0.1	E	disciplinas:redes:start	htajnr	[Redes de Computadores] 		0
+1761652441	127.0.0.1	E	disciplinas:ip:start	htajnr	[Material de Apoio] 		38
+1761652543	127.0.0.1	E	disciplinas:md:start	htajnr	[Material de Apoio] 		38
+1761652660	127.0.0.1	E	disciplinas:ac:start	htajnr	[Material de Apoio] 		38
+1761658374	127.0.0.1	E	disciplinas:alga:start	vd	[Material de Apoio] 		38
+1761658555	127.0.0.1	E	disciplinas:amii:start	vd	[Material de Apoio] 		38
+1761658903	127.0.0.1	E	disciplinas:ctp:start	vd	[Material de Apoio] 		38
+1761658948	127.0.0.1	E	disciplinas:ctp:start	vd	[Comunicação Técnico-Pessoal] 		146
+1761658974	127.0.0.1	E	disciplinas:ctp:start	vd	[Comunicação Técnico-Pessoal] 		-93
+1761658986	127.0.0.1	E	disciplinas:ctp:start	vd	[Comunicação Técnico-Pessoal] 		-52
+1761659880	127.0.0.1	E	disciplinas:pooi:start	vd	[Material de Apoio] 		38
+1761659947	127.0.0.1	E	disciplinas:ingles:start	vd	[Material de Apoio] 		38
+1761660151	127.0.0.1	E	recursos:tutoriais	vd	[Algoritmos e Estruturas de Dados] 		-57
+1761660172	127.0.0.1	E	recursos:tutoriais	vd	[Desenvolvimento Web] 		-55
+1761660895	127.0.0.1	E	disciplinas:tec:start	vd	[Material de Apoio] 		6
+1761662098	127.0.0.1	E	disciplinas:pooii:start	vd	[Material de Apoio] 		38
+1761676537	127.0.0.1	E	disciplinas:aed:start	vd	[Material de Apoio] 		38
+1761676843	127.0.0.1	E	disciplinas:so:start	vd	[Material de Apoio] 		38
+1761677017	127.0.0.1	E	disciplinas:bdi:start	vd	[Material de Apoio] 		38
+1761677093	127.0.0.1	E	disciplinas:amiii:start	vd	[Material de Apoio] 		38
+1761677160	127.0.0.1	E	disciplinas:pe:start	vd	[Material de Apoio] 		38
+1761677258	127.0.0.1	E	disciplinas:fisica:start	vd	[Material de Apoio] 		38
+1761677369	127.0.0.1	E	disciplinas:paradigmas:start	vd	[Material de Apoio] 		38
+1761677498	127.0.0.1	E	disciplinas:prog-web:start	vd	[Material de Apoio] 		38
+1761677584	127.0.0.1	E	disciplinas:redes:start	vd	[Material de Apoio] 		38

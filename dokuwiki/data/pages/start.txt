@@ -1,0 +1,157 @@
+~~NOTOC~~
+====== Bem-vindo ao Uniwiki ======
+<WRAP centeralign>
+<wrap lo medium>  O seu Repositório de Conhecimento para Engenharia Informática</wrap>
+</WRAP>
+
+----
+<WRAP centeralign>
+===== 📚 Disciplinas por Ano =====
+</WRAP>
+
+<WRAP group>
+
+<WRAP quarter column>
+<WRAP round box 105%>
+<wrap centeralign>**🔰 1º Ano**</wrap>
+<card>
+  * [[disciplinas:ip:start | Introdução a Programação]]
+  * [[disciplinas:md:start | Matemática Discreta I & II ]]
+  * [[disciplinas:ac:start | Arquitetura de Computadores]]
+  * [[disciplinas:alga:start | Álgebra Linear e Geometria Analítica]]
+  * [[disciplinas:amII:start | Análise Matemática I & II ]]
+  * [[disciplinas:ctp:start | Comunicação Técnico Pessoal]]
+  * [[disciplinas:pooI:start | Programação Orientada a Objetos I]]
+  * [[disciplinas:ingles:start |  Inglês I & II ]]
+  * [[disciplinas:teC:start |  Tecnologias de Computadores ]]
+
+</card>
+</WRAP>
+</WRAP>
+
+<WRAP quarter column>
+<WRAP round box 105%>
+<wrap centeralign>**⚡ 2º Ano**</wrap>
+<card>
+  * [[disciplinas:pooII:start| Programação Orientada a Objectos II]]
+  * [[disciplinas:aed:start| Algoritmos e Estruturas de Dados I & II]]
+  * [[disciplinas:so:start| Sistemas Operativos I & II]]
+  * [[disciplinas:bdI:start| Bases de Dados I]]
+  * [[disciplinas:amIII:start| Análise Matemática III]]
+  * [[disciplinas:pe:start| Probabilidade e Estatistica]]
+  * [[disciplinas:fisica:start| Fisica]]
+  * [[disciplinas:paradigmas:start| Paradigmas de Programação]]
+  * [[disciplinas:prog-web:start| Programação Web]]
+  * [[disciplinas:redes:start| Redes de Computadores]]
+</card>
+</WRAP>
+</WRAP>
+
+<WRAP quarter column>
+<WRAP round box 105%>
+<wrap centeralign>**🚀 3º Ano**</wrap>
+<card>
+  * [[disciplinas:fc:start |  Fundamentos de Comunicação]]
+  * [[disciplinas:es:start | Engenharia de Software I & II]]
+  * [[disciplinas:teoriaComp:start | Teoria de Computação]]
+  * [[disciplinas:ia:start | Inteligência Artificial]]
+  * [[disciplinas:bdII:start | Base de Dados II]]
+  * [[disciplinas:edp:start | Ética e Deontologia Profissional]]
+  * [[disciplinas:gestao:start | Gestão]]
+  * [[disciplinas:comuM:start | Comunicações Moveis]]
+  * [[disciplinas:gsr:start | Gestão de Sistemas em Redes]]
+  * [[disciplinas:sd:start | Sistemas Distribuídos]]
+  * [[disciplinas:multimedia:start | Multimédia]]
+</card>
+</WRAP>
+</WRAP>
+
+<WRAP quarter column>
+<WRAP round box 100%>
+<wrap centeralign>**🏁 4º Ano**</wrap>
+<card>
+  * [[disciplinas:compiladores:start | Compiladores]]
+  * [[disciplinas:si:start | Sistemas de Informação]]
+  * [[disciplinas:compM:start | Computação Móvel]]
+  * [[disciplinas:di:start | Direito Informático]]
+  * [[disciplinas:ssr:start | Segurança em Sistemas e Redes]]
+  * [[disciplinas:marketing:start | Marketing]]
+  * [[disciplinas:ec:start | Estágio Curricular]]
+  * [[disciplinas:tcc:start | Trabalho de Licenciatura]]
+</card>
+</WRAP>
+</WRAP>
+
+</WRAP>
+
+----
+
+<WRAP centeralign>
+===== 🛠️ Recursos Essenciais =====
+</WRAP>
+
+<WRAP group>
+<WRAP half column>
+<WRAP round tip 90%>
+**🔨 Ferramentas**
+  * [[recursos:ides | Ferramentas Recomendados]]
+</WRAP>
+</WRAP>
+
+<WRAP half column>
+<WRAP round info 90%>
+**📖 Bibliografia**
+  * [[recursos:livros|Livros das Disciplinas]]
+</WRAP>
+</WRAP>
+</WRAP>
+
+<WRAP group>
+<WRAP half column>
+<WRAP round info 90%>
+**🎯 Dicas de Estudo**
+  * [[recursos:preparacao|Preparação para Testes/Exames]]
+</WRAP>
+</WRAP>
+
+<WRAP half column>
+<WRAP round download 90%>
+**🔗 Links Úteis**
+  * [[recursos:tutoriais|Tutoriais e Plataformas de Prática]]
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+<WRAP centeralign>
+===== 🤝 Contribuir para a Comunidade =====
+</WRAP>
+
+<WRAP centeralign 140%>
+<WRAP info round 70%>
+**Queres ajudar outros estudantes?**
+
+<WRAP group>
+<WRAP half column>
+**[[contribuir:add |  Adicionar Conteúdo]]**\\
+//Partilha os teus materiais//
+</WRAP>
+
+<WRAP half column>
+**[[contribuir:report |  Reportar Problemas]]**\\
+//Ajuda-nos a melhorar//
+</WRAP>
+</WRAP>
+
+**[[contribuir:diretrizes | Consulta as nossas diretrizes]] • [[contribuir:contacto |  Contacta-nos]]**
+</WRAP>
+</WRAP>
+
+----
+
+<WRAP centeralign>
+//🎓 [[start| UniWiki]] - Construído pela comunidade, para a comunidade//\\
+**Partilha conhecimento. Constrói futuro.**\\
+\\
+<wrap lo>Versão optimizada para dispositivos moveis</wrap>
+</WRAP>

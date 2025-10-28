@@ -1,0 +1,275 @@
+~~NOTOC~~
+====== Preparação para Testes/Exames ======
+<WRAP centeralign>
+<wrap lo>Categoria: [Recursos] • Tipo: [Material de Estudo]</wrap>
+</WRAP>
+----
+
+<WRAP centeralign>
+===== 🎯 Sobre Este Recurso =====
+Estratégias comprovadas, guias de estudo organizados e material de revisão para maximizar o desempenho em avaliações. Métodos testados por gerações de estudantes de Engenharia Informática.
+</WRAP>
+
+**Ideal para:**
+  * Preparação estruturada nas semanas antes dos exames
+  * Revisão rápida de conceitos-chave
+  * Identificação de padrões em perguntas frequentes
+  * Gestão eficaz do tempo de estudo
+
+----
+
+===== 📚 Guias de Estudo por Disciplina =====
+<WRAP group>
+<WRAP half column>
+<WRAP round box>
+**📂 Material Compilado de Revisão**
+
+Coleção organizada de resumos e cheat sheets criados por estudantes. Atualizado semestralmente.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://drive.google.com/drive/folders/14XJPtC7IKRtI3ySwaHQDGaMSghyTscvR?usp=sharing|Aceder ao Drive]]
+
+<wrap lo>Conteúdo:  Resumos e/ou Guias de AED • BD • SO • Redes • P.WEB</wrap>
+
+</WRAP>
+</WRAP>
+
+<WRAP half column>
+<WRAP round box>
+**📊 Como Usar Este Material**
+
+  - Começa pelos resumos teóricos (1 semana antes)
+  - Resolve exercícios de exames anteriores (3-5 dias antes)
+  - Usa cheat sheets para revisão final (véspera)
+  - Identifica padrões nas perguntas dos docentes
+
+<wrap important>Não substitui estudo regular ao longo do semestre</wrap>
+
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+
+===== 🧠 Métodos de Estudo Eficazes =====
+
+==== Técnicas Comprovadas ====
+<WRAP group>
+<WRAP third column>
+<WRAP round box>
+**🔁 Repetição Espaçada (Spaced Repetition)**
+
+Revê material em intervalos crescentes:
+  * Dia 1: Aprende o conceito
+  * Dia 2: Primeira revisão
+  * Dia 7: Segunda revisão
+  * Dia 21: Terceira revisão
+
+Previne esquecimento e consolida memória de longo prazo.
+
+</WRAP>
+</WRAP>
+
+<WRAP third column>
+<WRAP round box>
+**🎯 Técnica Pomodoro**
+
+Ciclos de foco intenso com pausas:
+  * 25 min de estudo concentrado
+  * 5 min de pausa
+  * Após 4 ciclos: pausa longa (15-30 min)
+
+Mantém energia mental e previne burnout.
+
+</WRAP>
+</WRAP>
+
+<WRAP third column>
+<WRAP round box>
+**🗣️ Método Feynman**
+
+Ensina o conceito como se explicasses a alguém:
+  - Escolhe tópico complexo
+  - Explica em voz alta, linguagem simples
+  - Identifica lacunas no teu conhecimento
+  - Volta à matéria e repete
+
+Expõe fragilidades conceptuais escondidas.
+
+</WRAP>
+</WRAP>
+</WRAP>
+
+==== Estratégias Por Tipo de Disciplina ====
+<WRAP group>
+<WRAP half column>
+<WRAP round box>
+**💻 Disciplinas Práticas (Programação, BD)**
+
+  * **Código à mão:** Treina escrever sem IDE
+  * **Debugar mentalmente:** Simula execução passo-a-passo
+  * **Padrões recorrentes:** Identifica estruturas que se repetem
+  * **Projetos antigos:** Refaz trabalhos práticos de memória
+
+<wrap tip>70% prática, 30% teoria</wrap>
+
+</WRAP>
+</WRAP>
+
+<WRAP half column>
+<WRAP round box>
+**📐 Disciplinas Teóricas (Matemática, Algoritmos)**
+
+  * **Demonstrações:** Percebe lógica, não decora passos
+  * **Exercícios variados:** Resolve 3-5 tipos diferentes por dia
+  * **Conecta conceitos:** Cria mapas mentais entre tópicos
+  * **Explica em voz alta:** Valida compreensão profunda
+
+<wrap tip>50% resolução, 50% compreensão conceptual</wrap>
+
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+
+===== ⏰ Planeamento de Estudo =====
+
+==== Cronograma de 2 Semanas ====
+<WRAP group>
+<WRAP half column>
+<WRAP round box>
+**📅 Semana 1: Cobertura Ampla**
+
+**Dias 1-3:** Revisão de todos os tópicos (resumos)
+**Dias 4-5:** Exercícios básicos de cada capítulo
+**Dias 6-7:** Identifica pontos fracos
+
+<wrap important>Não entres em profundidade ainda</wrap>
+
+</WRAP>
+</WRAP>
+
+<WRAP half column>
+<WRAP round box>
+**🎯 Semana 2: Foco e Consolidação**
+
+**Dias 8-10:** Aprofunda tópicos difíceis
+**Dias 11-12:** Exames anteriores (tempo real)
+**Dia 13:** Revisão final com cheat sheets
+**Dia 14:** Descanso (sono adequado)
+
+<wrap tip>Prioriza os 20% de matéria que valem 80% da nota</wrap>
+
+</WRAP>
+</WRAP>
+</WRAP>
+
+==== Checklist Pré-Exame ====
+<WRAP round box>
+**✅ 3 Dias Antes**
+  * ☐ Resolvi pelo menos 3 exames anteriores completos
+  * ☐ Identifiquei padrões nas perguntas do docente
+  * ☐ Listei fórmulas/conceitos-chave que confundo
+
+**✅ 1 Dia Antes**
+  * ☐ Revisei apenas resumos e cheat sheets
+  * ☐ Fiz exercícios de aquecimento (não matéria nova)
+  * ☐ Preparei material permitido (calculadora, formulários)
+  * ☐ Confirmei sala e horário
+
+**✅ Dia do Exame**
+  * ☐ Dormi 7-8 horas
+  * ☐ Pequeno-almoço leve (evita sono pós-refeição)
+  * ☐ Cheguei 15 min antes (gestão de ansiedade)
+</WRAP>
+
+----
+
+===== 🧘 Gestão de Stress e Ansiedade =====
+<WRAP group>
+<WRAP third column>
+<WRAP round box>
+**😰 Durante o Estudo**
+
+  * Pausas regulares (previne sobrecarga)
+  * Exercício físico 30 min/dia
+  * Técnica 4-7-8: Inspira 4s, segura 7s, expira 8s
+  * Limita cafeína após 16h
+
+</WRAP>
+</WRAP>
+
+<WRAP third column>
+<WRAP round box>
+**📝 Durante o Exame**
+
+  * Lê todas as perguntas primeiro (5 min)
+  * Começa pelas mais fáceis (confiança)
+  * Se bloqueares: passa à frente, volta depois
+  * Reserva 10 min finais para revisão
+
+</WRAP>
+</WRAP>
+
+<WRAP third column>
+<WRAP round box>
+**💬 Recursos de Apoio**
+
+  * Grupos de estudo (máx. 4 pessoas)
+  * Gabinetes dos docentes
+  * Fóruns da disciplina
+  * Serviços de apoio psicológico da faculdade
+
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+
+===== 🎓 Dicas dos Veteranos =====
+<WRAP round tip>
+**Ouro testado por gerações:**
+  * Estuda como se fosses ensinar a matéria amanhã
+  * Exames anteriores > slides em densidade de informação útil
+  * Dorme bem: memória consolida-se durante o sono
+  * Não estudes matéria nova 24h antes do exame
+  * Responde primeiro às perguntas que vales mais pontos
+  * Deixa espaço nas respostas para adições posteriores
+</WRAP>
+
+<WRAP round important>
+**Evita estes erros:**
+  * ❌ Começar a estudar só 2-3 dias antes
+  * ❌ Reler passivamente slides (ilusão de conhecimento)
+  * ❌ Estudar em grupo sem preparação individual prévia
+  * ❌ Maratonas de 8+ horas (rendimento decrescente)
+  * ❌ Comparar o teu ritmo com outros colegas
+  * ❌ Negligenciar disciplinas "fáceis" (perdeste pontos grátis)
+</WRAP>
+
+----
+
+===== 📊 Após o Exame =====
+<WRAP round box>
+**Análise pós-avaliação (melhoria contínua):**
+
+  * Que tipo de perguntas erraste? (conceituais vs. aplicação)
+  * Faltou tempo ou conhecimento?
+  * Os resumos cobriam o que saiu?
+  * O método de estudo funcionou para esta disciplina?
+
+**Ajusta a estratégia para o próximo exame com base nestas respostas.**
+</WRAP>
+
+----
+
+<WRAP centeralign>
+===== ➕ Tens Outros Materiais ou Dicas? =====
+**Partilha os teus guias de estudo! [[contribuir:add|Contribui aqui]]**
+</WRAP>
+
+----
+
+<WRAP centeralign lo>
+[[:start|← Voltar à página principal]]
+</WRAP>

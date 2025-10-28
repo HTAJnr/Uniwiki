@@ -1,0 +1,44 @@
+====== Comunicação Técnica e Profissional ======
+
+A disciplina **Comunicação Técnica e Profissional** desenvolve habilidades de comunicação oral, escrita e digital, essenciais para o ambiente acadêmico e profissional.  
+
+===== Objetivos =====
+  * Escrever textos técnicos claros e objetivos.  
+  * Desenvolver comunicação oral formal e apresentações.  
+  * Aplicar normas e formatos profissionais de documentação.  
+  * Melhorar a capacidade de transmitir informações complexas de forma eficiente.  
+
+===== Conteúdos =====
+  * **Comunicação Escrita**  
+    * Estrutura de relatórios, artigos e documentos técnicos  
+    * Resumos, resenhas e sínteses  
+    * Linguagem formal e objetiva  
+  * **Comunicação Oral**  
+    * Apresentações e palestras  
+    * Expressão verbal e linguagem corporal  
+    * Técnicas de argumentação e persuasão  
+  * **Comunicação Digital**  
+    * E-mails profissionais e mensagens formais  
+    * Uso de plataformas digitais e multimídia  
+    * Redes sociais e comunicação corporativa  
+  * **Normas e Padrões Técnicos**  
+    * ABNT, IEEE, ISO e outras normas de documentação  
+    * Formatação de gráficos, tabelas e figuras  
+  * **Trabalho em Equipe e Liderança**  
+    * Dinâmicas de grupo  
+    * Comunicação em projetos e reuniões  
+
+===== Metodologia =====
+  * Aulas teóricas e práticas de escrita e apresentação.  
+  * Exercícios de comunicação oral em sala.  
+  * Produção de relatórios, resumos e apresentações.  
+
+===== Avaliação =====
+  * Redações e relatórios técnicos.  
+  * Apresentações orais individuais ou em grupo.  
+  * Participação e atividades práticas.  
+
+===== Bibliografia =====
+  * DUFFY, E. *Technical Communication: Principles and Practice*.  
+  * ALMEIDA, M. *Comunicação Técnica e Científica*.  
+  * GILBERT, L. *Professional Communication Skills*.  

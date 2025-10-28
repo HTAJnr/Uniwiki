@@ -1,0 +1,25 @@
+====== Direito Informático ======
+
+<WRAP centeralign>
+<wrap lo> Ano: [4º] • Semestre: [1º]</wrap>
+</WRAP>
+
+----
+
+<WRAP centeralign>
+<WRAP round info 100%>
+<wrap em huge>📭</wrap>
+
+**Ainda sem conteúdo nesta disciplina!**
+
+Esta página está à espera das tuas contribuições.
+
+[[contribuir:add|**→ Clique aqui para contribuir**]]
+</WRAP>
+</WRAP>
+
+----
+
+<WRAP centeralign lo>
+[[:start|← Voltar à página principal]]
+</WRAP>

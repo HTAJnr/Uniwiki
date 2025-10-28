@@ -1,0 +1,162 @@
+/* UniWiki Enhancements */
+
+/* Stats Section */
+.uniwiki-stats {
+    background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
+    padding: 1.5rem;
+    border-radius: 1rem;
+    margin: 2rem 0;
+    border: 1px solid #bae6fd;
+}
+
+.stats-row {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.stat-box {
+    background: white;
+    padding: 1.5rem 1rem;
+    border-radius: 0.8rem;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    border: 1px solid #e2e8f0;
+}
+
+.stat-box strong {
+    font-size: 2rem;
+    color: #0369a1;
+    display: block;
+    font-weight: 700;
+}
+
+/* Content Cards */
+.content-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 1.5rem;
+    margin: 2rem 0;
+}
+
+.doc-card {
+    background: white;
+    border: 1px solid #e2e8f0;
+    border-radius: 1rem;
+    padding: 1.5rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    transition: all 0.3s ease;
+}
+
+.doc-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+    border-color: #0369a1;
+}
+
+.doc-card h3 {
+    margin-top: 0;
+    color: #1e293b;
+    font-size: 1.1rem;
+}
+
+.doc-card strong {
+    color: #64748b;
+    font-size: 0.9rem;
+}
+
+.doc-card a {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    margin: 0.25rem 0.25rem 0 0;
+    background: #f1f5f9;
+    color: #0369a1;
+    border-radius: 0.5rem;
+    text-decoration: none;
+    font-size: 0.9rem;
+    font-weight: 600;
+    border: 1px solid #cbd5e1;
+    transition: all 0.2s ease;
+}
+
+.doc-card a:hover {
+    background: #0369a1;
+    color: white;
+}
+
+/* Categories Grid */
+.categories-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.2rem;
+    margin: 2rem 0;
+}
+
+.category-item {
+    background: white;
+    border: 2px solid #f1f5f9;
+    border-radius: 1rem;
+    padding: 1.5rem;
+    text-align: center;
+    transition: all 0.3s ease;
+}
+
+.category-item:hover {
+    border-color: #0369a1;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(3, 105, 161, 0.15);
+}
+
+.category-item h3 {
+    margin: 0 0 0.5rem 0;
+    font-size: 1.1rem;
+}
+
+.category-item h3 a {
+    color: #1e293b;
+    text-decoration: none;
+}
+
+.category-item h3 a:hover {
+    color: #0369a1;
+}
+
+/* Recent Activity */
+.recent-activity {
+    background: white;
+    border: 1px solid #e2e8f0;
+    border-radius: 1rem;
+    padding: 1.5rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+.recent-activity .li {
+    border-bottom: 1px solid #f1f5f9;
+    padding: 0.8rem 0;
+}
+
+.recent-activity .li:last-child {
+    border-bottom: none;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .stats-row {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .content-cards {
+        grid-template-columns: 1fr;
+    }
+
+    .categories-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 480px) {
+    .stats-row {
+        grid-template-columns: 1fr;
+    }
+}

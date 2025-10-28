@@ -1,0 +1,75 @@
+~~NOTOC~~
+====== Análise Matemática III ======
+<WRAP centeralign>
+<wrap lo>Ano: [2º] • Semestre: [1º] </wrap>
+</WRAP>
+----
+<WRAP centeralign>
+===== 📖 Sobre a Disciplina =====
+Disciplina que aprofunda conceitos de **cálculo diferencial e integral em várias variáveis**, séries, sequências, funções vetoriais e integrais múltiplas. Prepara os estudantes para aplicações em **Engenharia e Ciências**, com ênfase em rigor matemático, resolução de problemas e modelação analítica.
+</WRAP>
+
+<WRAP center round info 40%>
+**Tópicos principais:**
+  * Sequências e séries numéricas  
+  * Séries de potências e intervalos de convergência  
+  * Funções vetoriais e parametrizadas  
+  * Limites e continuidade em várias variáveis  
+  * Derivadas parciais e diferenciais totais  
+  * Gradiente, divergente, rotacional e aplicações  
+  * Integrais múltiplas: dupla, tripla e mudança de variáveis  
+  * Teoremas de Green, Gauss e Stokes  
+  * Aplicações a geometria, física e engenharia  
+
+**Competências desenvolvidas:**
+  * Analisar convergência de séries e sequências  
+  * Calcular derivadas e integrais em várias dimensões  
+  * Aplicar operadores vetoriais em problemas reais  
+  * Resolver problemas de otimização e modelação matemática  
+  * Interpretar resultados geométrica e fisicamente
+
+</WRAP>
+----
+===== 📚 Recursos Disponíveis =====
+==== Material de Apoio ====
+<WRAP group>
+<WRAP half column>
+<WRAP round box>
+**📂 Pasta da Disciplina no Drive**
+Slides, notas de aula, exercícios resolvidos, fichas práticas e exemplos de aplicação em engenharia e física. Inclui listas de problemas e mini-projetos para consolidação.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://drive.google.com/drive/folders/1OygNIJLg7CxS_TKrRTnjYNHPtMVfjVbr?usp=sharing|Aceder ao Material]]
+
+</WRAP>
+</WRAP>
+<WRAP half column>
+<WRAP round info>
+**📝 O Que Encontras**
+  * Slides teóricos por tópico  
+  * Exercícios progressivos (básico → avançado)  
+  * Exemplos de provas anteriores  
+  * Guias de estudo com resolução comentada  
+  * Tabelas e fórmulas úteis de cálculo multivariável  
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+===== 💡 Dicas de Estudo =====
+<WRAP round tip 100%>
+  * Estuda diariamente e pratica exercícios de forma consistente  
+  * Desenha gráficos de funções para compreensão visual  
+  * Revê propriedades de derivadas e integrais em várias dimensões  
+  * Relaciona teoremas vetoriais com aplicações físicas  
+  * Consulta exemplos de provas anteriores para treino
+
+</WRAP>
+----
+<WRAP centeralign>
+===== ➕ Contribuir =====
+**Tens material útil para esta disciplina?** [[contribuir:add|Partilha aqui!]]
+</WRAP>
+----
+<WRAP centeralign lo>
+[[:start|← Voltar à Página Principal]]
+</WRAP>

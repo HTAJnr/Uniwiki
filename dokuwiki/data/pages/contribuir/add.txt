@@ -1,0 +1,34 @@
+====== Adicionar Recursos ======
+
+<WRAP centeralign>
+<wrap lo>Ajuda a comunidade a crescer</wrap>
+</WRAP>
+
+----
+<WRAP centeralign>
+<WRAP round info 100%>
+**Contribui através do nosso formulário:**
+
+ [[{ |width: 12rem; display: table; margin: 0 auto; color:green; border-radius: 8px;}https://docs.google.com/forms/d/e/1FAIpQLSfIJcnRwrQ-MYj4BjvcgqrwdwP0KC54EuEn4EhHez4bZFWf_w/viewform?usp=dialog|Preencher Formulário]]
+
+O formulário permite:
+  ✅ Upload direto de ficheiros
+  ✅ Partilha de links
+  ✅ Sugestões de melhorias
+</WRAP>
+</WRAP>
+----
+
+===== 📋 O que precisas preparar =====
+
+  * Título do material
+  * Tipo (livro/apontamentos/exercícios/etc)
+  * Disciplina relacionada
+  * Breve descrição
+  * Ficheiro OU link para download
+
+----
+
+<WRAP centeralign lo>
+[[:start|← Voltar à página principal]]
+</WRAP>

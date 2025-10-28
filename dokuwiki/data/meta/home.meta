@@ -1,0 +1,28 @@
+a:2:{s:7:"current";a:10:{s:4:"date";a:2:{s:7:"created";i:1758821090;s:8:"modified";i:1761591558;}s:7:"creator";s:6:"Vritik";s:4:"user";s:2:"vd";s:11:"last_change";b:0;s:11:"contributor";a:2:{s:2:"vd";s:6:"Vritik";s:6:"htajnr";N;}s:11:"plugin_move";a:0:{}s:5:"title";s:20:"Bem-vindo ao Uniwiki";s:11:"description";a:2:{s:15:"tableofcontents";a:4:{i:0;a:4:{s:3:"hid";s:20:"bem-vindo_ao_uniwiki";s:5:"title";s:20:"Bem-vindo ao Uniwiki";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:24:"📚_disciplinas_por_ano";s:5:"title";s:24:"📚 Disciplinas por Ano";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:27:"🛠️_recursos_essenciais";s:5:"title";s:27:"🛠️ Recursos Essenciais";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:3;a:4:{s:3:"hid";s:33:"🤝_contribuir_para_a_comunidade";s:5:"title";s:33:"🤝 Contribuir para a Comunidade";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:532:"Bem-vindo ao Uniwiki
+
+  O seu Repositório de Conhecimento para Engenharia Informática
+
+----------
+
+📚 Disciplinas por Ano
+
+🔰 1º Ano
+
+
+	*   Introdução a Programação
+	*   Matemática Discreta I & II 
+	*   Arquitetura de Computadores
+	*   Álgebra Linear e Geometria Analítica
+	*   Análise Matemática I & II 
+	*   Comunicação Técnico Pessoal
+	*   Programação Orientada a Objetos I
+	*    Inglês I & II 
+	*    Tecnologias de Computadores 
+
+
+
+⚡ 2º Ano
+
+
+	*   Programação Orientada a Objectos II
+	*   Algoritmo…";}s:8:"relation";a:2:{s:10:"references";a:50:{s:20:"disciplinas:ip:start";b:1;s:20:"disciplinas:md:start";b:1;s:20:"disciplinas:ac:start";b:1;s:22:"disciplinas:alga:start";b:1;s:22:"disciplinas:amii:start";b:1;s:21:"disciplinas:ctp:start";b:1;s:22:"disciplinas:pooi:start";b:1;s:24:"disciplinas:ingles:start";b:1;s:21:"disciplinas:tec:start";b:1;s:23:"disciplinas:pooii:start";b:1;s:21:"disciplinas:aed:start";b:1;s:20:"disciplinas:so:start";b:1;s:21:"disciplinas:bdi:start";b:1;s:23:"disciplinas:amiii:start";b:1;s:20:"disciplinas:pe:start";b:1;s:24:"disciplinas:fisica:start";b:1;s:28:"disciplinas:paradigmas:start";b:1;s:26:"disciplinas:prog-web:start";b:1;s:23:"disciplinas:redes:start";b:1;s:20:"disciplinas:fc:start";b:1;s:20:"disciplinas:es:start";b:1;s:28:"disciplinas:teoriacomp:start";b:1;s:20:"disciplinas:ia:start";b:1;s:22:"disciplinas:bdii:start";b:1;s:21:"disciplinas:edp:start";b:1;s:24:"disciplinas:gestao:start";b:1;s:23:"disciplinas:comum:start";b:1;s:21:"disciplinas:gsr:start";b:1;s:20:"disciplinas:sd:start";b:1;s:28:"disciplinas:multimedia:start";b:1;s:30:"disciplinas:compiladores:start";b:1;s:20:"disciplinas:si:start";b:1;s:23:"disciplinas:compm:start";b:1;s:20:"disciplinas:di:start";b:1;s:21:"disciplinas:ssr:start";b:1;s:27:"disciplinas:marketing:start";b:1;s:20:"disciplinas:ec:start";b:1;s:21:"disciplinas:tcc:start";b:1;s:13:"recursos:ides";b:1;s:12:"recursos:git";b:1;s:15:"recursos:livros";b:1;s:16:"recursos:metodos";b:1;s:19:"recursos:preparacao";b:1;s:18:"recursos:tutoriais";b:1;s:20:"recursos:plataformas";b:1;s:14:"contribuir:add";b:1;s:17:"contribuir:report";b:1;s:21:"contribuir:diretrizes";b:1;s:19:"contribuir:contacto";b:1;s:4:"home";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:0;}}s:10:"persistent";a:6:{s:4:"date";a:2:{s:7:"created";i:1758821090;s:8:"modified";i:1761591558;}s:7:"creator";s:6:"Vritik";s:4:"user";s:2:"vd";s:11:"last_change";b:0;s:11:"contributor";a:2:{s:2:"vd";s:6:"Vritik";s:6:"htajnr";N;}s:11:"plugin_move";a:0:{}}}

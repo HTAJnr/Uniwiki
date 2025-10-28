@@ -1,0 +1,231 @@
+~~NOTOC~~
+====== Ferramentas Recomendadas ======
+<WRAP centeralign>
+<wrap lo>Categoria: [Recursos] • Tipo: [Software e Ferramentas]</wrap>
+</WRAP>
+----
+
+<WRAP centeralign>
+===== 🔧 Sobre Este Recurso =====
+Conjunto essencial de ferramentas para desenvolvimento, simulação e gestão de projetos ao longo do curso de Engenharia Informática. Todas as aplicações são testadas e utilizadas nas disciplinas práticas.
+</WRAP>
+
+**Ideal para:**
+  * Configuração inicial do ambiente de desenvolvimento
+  * Trabalhos práticos e laboratoriais
+  * Projetos individuais e em grupo
+  * Simulações e testes antes de implementações reais
+
+----
+
+===== ☕ Ambientes de Desenvolvimento Java =====
+<WRAP group>
+<WRAP half column>
+<WRAP round box>
+**📦 Eclipse IDE for Java Developers**
+
+IDE robusto e completo para desenvolvimento Java. Suporta debugging avançado, refactoring automático e integração com múltiplas ferramentas de build.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://www.eclipse.org/downloads/|Download Oficial]]
+
+</WRAP>
+</WRAP>
+
+<WRAP half column>
+<WRAP round box>
+**🎯 GEL Java IDE**
+
+IDE leve para Windows, com interface simples — ideal para quem está começando em Java e tem um PC com poucos recursos.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://drive.google.com/file/d/1bKs11t5W2IMVAT0Wq2tCR8LkCysIXSpE/view?usp=sharing|Download]]
+
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+
+===== 🌐 Desenvolvimento Web =====
+<WRAP group>
+<WRAP half column>
+<WRAP round box>
+**💻 Visual Studio Code**
+
+Editor leve e extensível. Ideal para HTML, CSS, JavaScript, PHP e praticamente qualquer linguagem web com extensões apropriadas.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://code.visualstudio.com/download|Download Oficial]]
+
+</WRAP>
+</WRAP>
+
+<WRAP half column>
+<WRAP round box>
+**📦 XAMPP**
+
+Pacote completo com Apache, MySQL, PHP e Perl. Ambiente local para desenvolvimento e testes de aplicações web sem configurações complexas.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://www.apachefriends.org/download.html|Download Oficial]]
+
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+
+===== 🔌 Simulação e Virtualização =====
+<WRAP group>
+<WRAP third column>
+<WRAP round box>
+**⚡ Livewire**
+
+Simulador de circuitos lógicos digitais. Permite construir e testar circuitos desde portas básicas até CPUs completas.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://drive.google.com/file/d/1xB0q9_Nn1bYYFwzABRVxZDDei7iOkhRN/view?usp=sharing|Download]]
+
+</WRAP>
+</WRAP>
+
+<WRAP third column>
+<WRAP round box>
+**📦 VirtualBox**
+
+Solução gratuita para virtualização. Essencial para executar CentOS, Linux ou outros sistemas sem dual boot.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://www.virtualbox.org/wiki/Downloads|Download Oficial]]
+
+</WRAP>
+</WRAP>
+
+<WRAP third column>
+<WRAP round box>
+**🌐 Cisco Packet Tracer**
+
+Simulador de redes Cisco. Permite criar topologias complexas, configurar routers/switches e testar protocolos sem hardware físico.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://www.computernetworkingnotes.com/ccna-study-guide/download-packet-tracer-for-windows-and-linux.html|Download]]
+
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+
+===== 🗄️ Base de Dados e Transferência de Ficheiros =====
+<WRAP group>
+<WRAP half column>
+<WRAP round box>
+**🔐 WinSCP**
+
+Cliente SFTP/SCP para Windows. Indispensável para transferir ficheiros entre máquina host e VM CentOS (especialmente para trabalhos com Oracle SQL*Plus).
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://winscp.net/eng/download.php|Download Oficial]]
+
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+
+===== 📐 Diagramação e Modelagem =====
+<WRAP group>
+<WRAP half column>
+<WRAP round box>
+**🎨 Draw.io (diagrams.net)**
+
+Ferramenta gratuita para criar diagramas UML, fluxogramas, esquemas ER, diagramas de rede e qualquer tipo de representação visual.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://www.drawio.com/|Versão Web]] 
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://github.com/jgraph/drawio-desktop/releases|Download Oficial]]
+
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+
+===== 🧮 Programação em C/C++ =====
+<WRAP group>
+<WRAP half column>
+<WRAP round box>
+**⚙️ Code::Blocks**
+
+IDE leve e multiplataforma para C/C++. Interface simples, compilador MinGW integrado e debugging eficiente.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://www.codeblocks.org/downloads/|Download Oficial]]
+
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+
+===== 🔤 Paradigmas de Programação =====
+<WRAP group>
+<WRAP third column>
+<WRAP round box>
+**🐫 OCaml**
+
+Compilador e ambiente para programação funcional em OCaml. Usado em Paradigmas de Programação para explorar conceitos funcionais puros.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://ocaml.org/install|Download Oficial]]
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://ocaml.org/play|Versão Web]]
+
+</WRAP>
+</WRAP>
+
+<WRAP third column>
+<WRAP round box>
+**📝 Standard ML of New Jersey (SML/NJ)**
+
+Compilador e interpretador para Standard ML. Implementação de referência com REPL interativo para testes rápidos.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://www.smlnj.org/|Download Oficial]]
+
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://sosml.org/editor|Versão Web]]
+
+</WRAP>
+</WRAP>
+
+<WRAP third column>
+<WRAP round box>
+**🦉 SWI-Prolog**
+
+Ambiente completo para programação lógica. Sistema Prolog robusto com debugger integrado e vasta biblioteca de predicados.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://www.swi-prolog.org/download/stable|Download Oficial]]
+
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+
+===== 💡 Guia de Instalação Rápida =====
+<WRAP round tip>
+**Prioridades por semestre:**
+  * **1º Ano:** Eclipse/Gel + Draw.io + livewire
+  * **2º Ano:** VirtualBox + Code::Blocks + WinSCP + XAMPP + VSCode + OCaml + SML/NJ + SWI-Prolog + Cisco Packet Tracer
+</WRAP>
+
+<WRAP round important>
+**Notas importantes:**
+  * Para VirtualBox: ativa a virtualização (VT-x/AMD-V) na BIOS
+  * Cisco Packet Tracer exige registo gratuito na Cisco NetAcad
+  * XAMPP no Windows: executa como administrador na primeira configuração
+</WRAP>
+
+----
+
+<WRAP centeralign>
+===== ➕ Falta Alguma Ferramenta? =====
+**Conheces outras aplicações úteis? [[contribuir:add|Sugere aqui!]]**
+</WRAP>
+
+----
+
+<WRAP centeralign lo>
+[[:start|← Voltar à página principal]]
+</WRAP>

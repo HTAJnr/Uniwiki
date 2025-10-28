@@ -1,0 +1,112 @@
+~~NOTOC~~
+====== Sistemas Operativos I & II ======
+<WRAP centeralign>
+<wrap lo>Ano: [2º] • Semestres: [1º & 2º]</wrap>
+</WRAP>
+----
+<WRAP centeralign>
+===== 📖 Sobre as Disciplinas =====
+Disciplinas que introduzem e aprofundam conceitos de **Sistemas Operativos**, focando na **gestão de processos, memória, dispositivos, segurança e escalonamento**, bem como arquiteturas e tipos de sistemas.  
+**SO I** aborda conceitos fundamentais, histórico, tipos de SO, escalonamento de processos e gestão de memória.  
+**SO II** aprofunda algoritmos de escalonamento, gestão de E/S, deadlocks, segurança e controle de recursos.
+</WRAP>
+
+<WRAP group>
+<WRAP half column>
+<WRAP round info>
+===== Sistemas Operativos I =====
+**Tópicos principais:**
+  * Conceitos básicos: CPU, processo, threads, multiprogramação  
+  * Organização do hardware e hierarquia de memória  
+  * História e gerações de sistemas operativos  
+  * Definição, objetivos e componentes do SO  
+  * Núcleo (*Kernel*) e arquiteturas (monolítica, camadas, micronúcleo, máquina virtual)  
+  * Gestão de processos e escalonamento básico (FCFS, SJF, Round-Robin)  
+  * Gestão de memória: RAM, Cache, ROM, Paging, Swapping, alocação dinâmica (First-fit, Best-fit, etc.)  
+  * Algoritmos de substituição de páginas: LRU, NRU, FIFO, Second Chance  
+
+**Competências desenvolvidas:**
+  * Compreensão da função do SO e interação com hardware  
+  * Análise de estados de processos e escalonamento  
+  * Gestão eficiente de memória e recursos do sistema  
+  * Implementação prática de conceitos de memória virtual e swapping  
+</WRAP>
+</WRAP>
+
+<WRAP half column>
+<WRAP round info>
+===== Sistemas Operativos II =====
+**Tópicos principais:**
+  * Escalonamento avançado: múltiplas filas, prioridade, EDF, Shortest Process Next, Lottery  
+  * Gestão de E/S: princípios de hardware/software, interrupções, DMA  
+  * Gestão de discos rígidos: formatação, algoritmos de braço (FCFS, SSF, elevador), armazenamento estável  
+  * Deadlocks: condições, prevenção, detecção e recuperação (Algoritmo do Banqueiro)  
+  * Segurança de SO: propriedades CIA, controlo de acesso, modelos formais (Bell-LaPadula, Biba)  
+  * Criptografia básica: simétrica e assimétrica  
+  * Arquivos batch: criação e execução de scripts de rotina  
+
+**Competências desenvolvidas:**
+  * Aplicação de algoritmos de escalonamento e gestão de E/S  
+  * Detecção e prevenção de deadlocks  
+  * Garantia de segurança e proteção de dados em SO  
+  * Implementação de tarefas automatizadas via arquivos batch  
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+===== 📚 Recursos Disponíveis =====
+==== Material de Apoio ====
+<WRAP group>
+<WRAP half column>
+<WRAP round box>
+**📂 Pasta das Disciplinas no Drive**  
+Slides, exercícios, projetos guiados, exemplos práticos de gestão de processos, memória, E/S, deadlocks e segurança em sistemas operativos.  
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://drive.google.com/drive/folders/1MZxSrBUVPVq6rNKFYIX7KKFAF4M9KjrH?usp=sharing|Aceder ao Material]]
+</WRAP>
+</WRAP>
+
+<WRAP half column>
+<WRAP round info>
+**📝 O Que Encontras**
+  * Diagramas de processos, threads e memória  
+  * Exercícios de escalonamento e alocação de memória  
+  * Simulações de E/S, discos e algoritmos de braço  
+  * Estudos de caso sobre deadlocks e segurança  
+  * Exemplos de arquivos batch e scripts  
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+===== 💡 Dicas de Estudo =====
+<WRAP round tip 100%>
+<WRAP group>
+<WRAP half column>
+**Para SO I:**  
+  * Entender a função de cada componente do SO  
+  * Simular estados de processos manualmente  
+  * Estudar hierarquia de memória e técnicas de swapping/paging  
+  * Revisar gerações de SO e arquiteturas de kernel  
+</WRAP>
+
+<WRAP half column>
+**Para SO II:**  
+  * Praticar algoritmos de escalonamento com exemplos  
+  * Desenhar diagramas de E/S e discos para entender operações  
+  * Resolver exercícios de deadlock e aplicação do Algoritmo do Banqueiro  
+  * Revisar conceitos de segurança, modelos formais e criptografia básica  
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+<WRAP centeralign>
+===== ➕ Contribuir =====
+**Tens material útil para estas disciplinas?** [[contribuir:add|Partilha aqui!]]
+</WRAP>
+----
+<WRAP centeralign lo>
+[[:start|← Voltar à Página Principal]]
+</WRAP>

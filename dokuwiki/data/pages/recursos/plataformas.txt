@@ -1,0 +1,139 @@
+~~NOTOC~~
+====== [Nome do Recurso] ======
+
+<WRAP centeralign>
+<wrap lo>Categoria: [Ferramentas/Bibliografia/Dicas/Links] • Tipo: [Específico]</wrap>
+</WRAP>
+
+----
+
+===== 📖 Sobre Este Recurso =====
+
+[Breve descrição do que é e para que serve]
+
+**Ideal para:**
+  * [Situação 1]
+  * [Situação 2]
+  * [Situação 3]
+
+----
+
+===== 📚 Conteúdos Disponíveis =====
+
+<WRAP group>
+<WRAP third column>
+<WRAP round box>
+**📕 [Título do Item]**
+
+{{#tag1}} {{#tag2}}
+
+📅 2021 • 📥 323
+
+Descrição breve do conteúdo e sua relevância.
+
+<btn type="primary">[[link|Baixar]]</btn> <btn type="default">[[detalhes|Detalhes]]</btn>
+</WRAP>
+</WRAP>
+
+<WRAP third column>
+<WRAP round box>
+**🔧 [Título do Item]**
+
+{{#ferramenta}} {{#gratuito}}
+
+📅 2024 • 🌐 Online
+
+Ferramenta essencial para [finalidade específica].
+
+<btn type="primary">[[link_externo|Acessar]]</btn> <btn type="default">[[info|Mais Info]]</btn>
+</WRAP>
+</WRAP>
+
+<WRAP third column>
+<WRAP round box>
+**📄 [Título do Item]**
+
+{{#tutorial}} {{#português}}
+
+📅 2023 • ⏱️ 30min
+
+Guia passo-a-passo para iniciantes.
+
+<btn type="primary">[[link|Ver]]</btn> <btn type="default">[[detalhes|Detalhes]]</btn>
+</WRAP>
+</WRAP>
+</WRAP>
+
+<WRAP group>
+<WRAP third column>
+<WRAP round box>
+**🎥 [Título do Vídeo]**
+
+{{#vídeo}} {{#prático}}
+
+📅 2024 • ⏱️ 1h15min
+
+Demonstração completa com exemplos reais.
+
+<btn type="primary">[[youtube|Assistir]]</btn>
+</WRAP>
+</WRAP>
+
+<WRAP third column>
+<WRAP round box>
+**🔗 [Recurso Online]**
+
+{{#plataforma}} {{#interativo}}
+
+📅 2024 • 🌐 Externo
+
+Plataforma para prática com feedback imediato.
+
+<btn type="primary">[[link|Visitar]]</btn>
+</WRAP>
+</WRAP>
+
+<WRAP third column>
+<WRAP round box>
+**📊 [Cheat Sheet]**
+
+{{#referência}} {{#pdf}}
+
+📅 2024 • 📥 156
+
+Resumo rápido dos comandos mais usados.
+
+<btn type="primary">[[download|Baixar]]</btn>
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+
+===== 💡 Dicas de Uso =====
+
+<WRAP round tip>
+**Para iniciantes:**
+  * Comece por [X]
+  * Pratique diariamente durante [tempo]
+  * Ignore [Y] por enquanto
+</WRAP>
+
+<WRAP round info>
+**Recursos complementares:**
+  * [[link_interno|Outro recurso relacionado]]
+  * [[link_interno2|Material de apoio]]
+</WRAP>
+
+----
+
+<WRAP centeralign>
+===== ➕ Conhece Outros Recursos? =====
+Tens materiais úteis? [[contribuir:add|**Partilha connosco!**]]
+</WRAP>
+
+----
+
+<WRAP centeralign lo>
+[[:start|← Voltar à página principal]]
+</WRAP>

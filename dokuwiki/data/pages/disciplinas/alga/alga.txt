@@ -1,0 +1,96 @@
+====== Álgebra Linear ======
+
+A disciplina **Álgebra Linear** estuda estruturas matemáticas fundamentais, como vetores, matrizes e sistemas lineares, essenciais para Engenharia, Computação, Física e Matemática Aplicada.  
+
+===== Objetivos =====
+  * Compreender conceitos de vetores, matrizes e determinantes.  
+  * Resolver sistemas lineares e analisar suas soluções.  
+  * Aplicar operações de matrizes e vetores em problemas práticos.  
+  * Estudar transformações lineares e espaços vetoriais.  
+
+===== Conteúdos =====
+  * **Vetores e Operações**  
+    * Definição, soma e produto por escalar  
+    * Produto escalar e vetorial  
+    * Aplicações em geometria e física  
+  * **Matrizes**  
+    * Tipos de matrizes (quadradas, identidade, diagonal, transposta)  
+    * Operações: adição, multiplicação, inversa  
+    * Determinantes e propriedades  
+  * **Sistemas Lineares**  
+    * Representação matricial  
+    * Método de Gauss e Gauss-Jordan  
+    * Teorema de Rouché-Frobenius  
+  * **Espaços Vetoriais**  
+    * Conceitos de subespaços, bases e dimensão  
+    * Dependência e independência linear  
+  * **Transformações Lineares**  
+    * Núcleo e imagem  
+    * Matriz associada à transformação  
+    * Mudança de base  
+  * **Valores e Vetores Próprios**  
+    * Definição e cálculo  
+    * Diagonalização de matrizes  
+    * Aplicações em sistemas dinâmicos  
+
+===== Metodologia =====
+  * Aulas teóricas com exercícios práticos.  
+  * Resolução de problemas em sala de aula.  
+  * Aplicações computacionais de álgebra linear.  
+
+===== Avaliação =====
+  * Testes teóricos e práticos.  
+  * Exercícios de aplicação.  
+  * Projetos ou listas de estudo.  
+
+===== Bibliografia =====
+  * LAY, D. C. *Linear Algebra and Its Applications*.  
+  * STRANG, G. *Introduction to Linear Algebra*.  
+  * BRETSCHER, O. *Linear Algebra with Applications*.  
+====== Geometria Analítica ======
+
+A disciplina **Geometria Analítica** estuda a representação de figuras geométricas no plano e no espaço utilizando coordenadas e álgebra, conectando álgebra e geometria de forma prática.  
+
+===== Objetivos =====
+  * Representar pontos, retas e planos em coordenadas cartesianas.  
+  * Resolver problemas geométricos usando álgebra e fórmulas analíticas.  
+  * Analisar relações métricas e angulares entre elementos geométricos.  
+  * Estudar curvas e superfícies no plano e no espaço.  
+
+===== Conteúdos =====
+  * **Sistema de Coordenadas**  
+    * Plano cartesiano: eixo X e Y  
+    * Espaço tridimensional: eixo X, Y e Z  
+  * **Pontos e Vetores**  
+    * Distância entre pontos  
+    * Vetores posição e operações básicas  
+    * Produto escalar e vetorial  
+  * **Retas e Planos**  
+    * Equação da reta no plano e no espaço  
+    * Equação do plano  
+    * Posições relativas entre retas e planos  
+  * **Cônicas**  
+    * Circunferência, elipse, parábola e hipérbole  
+    * Equações gerais e formas reduzidas  
+    * Interseções com retas  
+  * **Superfícies e Curvas no Espaço**  
+    * Esferas, cilindros e cones  
+    * Seções planas e distâncias  
+  * **Distâncias e Ângulos**  
+    * Distância ponto-plano, ponto-reta, reta-reta  
+    * Ângulo entre retas e entre planos  
+
+===== Metodologia =====
+  * Aulas teóricas com representações gráficas.  
+  * Exercícios práticos em papel e software de geometria.  
+  * Aplicação de conceitos em problemas físicos e de engenharia.  
+
+===== Avaliação =====
+  * Testes teóricos e exercícios resolvidos.  
+  * Projetos de aplicação e gráficos.  
+  * Trabalhos em grupo ou individuais.  
+
+===== Bibliografia =====
+  * STEWART, J. *Cálculo e Geometria Analítica*.  
+  * HUGHES-HALLETT, D. *Calculus*.  
+  * LIPSCHUTZ, S. *Geometria Analítica*.  

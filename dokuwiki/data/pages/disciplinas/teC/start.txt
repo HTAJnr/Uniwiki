@@ -1,0 +1,77 @@
+~~NOTOC~~
+====== Tecnologias de Computadores ======
+<WRAP centeralign>
+<wrap lo>Ano: [1º] • Semestre: [2º]</wrap>
+</WRAP>
+----
+<WRAP centeralign>
+===== 📖 Sobre a Disciplina =====
+Disciplina que explora a arquitetura e funcionamento interno de computadores, hierarquia de memória, sistemas digitais e técnicas de compressão de dados.  
+Inclui aprendizagem prática sobre montagem, diagnóstico de avarias, e manipulação de sistemas digitais, preparando o estudante para compreender e interagir com hardware e software a nível fundamental.
+</WRAP>
+
+<WRAP center round info 50%>
+**Tópicos principais:**
+  * Introdução à disciplina e Modelo de von Neumann  
+  * Funcionamento de processadores (ciclo fetch/decode/execute, Lei de Moore)  
+  * Hierarquia de memória e sistemas de numeração  
+  * Componentes de um computador e grandezas de armazenamento  
+  * Sistemas digitais: combinatórios e sequenciais, portas lógicas, mapas de Karnaugh  
+  * Conversão e codificação de códigos (ASCII, UNICODE, 7 segmentos)  
+  * Flip-flops e multivibradores biestáveis  
+  * Diagnóstico e resolução de avarias de computadores  
+  * Prototipagem digital e VHDL  
+  * Representação de som e imagem  
+  * Técnicas básicas de compressão de dados  
+
+**Competências desenvolvidas:**
+  * Compreensão da arquitetura de computadores e lógica digital  
+  * Capacidade de análise e resolução de problemas em sistemas digitais  
+  * Montagem, diagnóstico e manutenção de computadores  
+  * Manipulação de dados binários e codificação de informação  
+  * Aplicação de conceitos de prototipagem e compressão de dados  
+</WRAP>
+----
+===== 📚 Recursos Disponíveis =====
+==== Material de Apoio ====
+<WRAP group>
+<WRAP half column>
+<WRAP round box>
+**📂 Pasta da Disciplina no Drive**  
+Slides teóricos, exercícios práticos e projetos sobre arquitetura de computadores, sistemas digitais, representação de dados e compressão. Inclui guias de montagem de PCs, exercícios de lógica digital e VHDL.  
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://drive.google.com/drive/folders/QuebradoTeste|Aceder ao Material]]
+</WRAP>
+</WRAP>
+
+<WRAP half column>
+<WRAP round info>
+**📝 O Que Encontras**
+  * Exemplos práticos de montagem e reparação de computadores  
+  * Exercícios de sistemas digitais e codificação  
+  * Projetos guiados de prototipagem e compressão de dados  
+  * Diagramas de circuitos e exercícios de flip-flops  
+  * Testes e exercícios resolvidos  
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+===== 💡 Dicas de Estudo =====
+<WRAP round tip 100%>
+  * Pratica exercícios de portas lógicas e mapas de Karnaugh regularmente  
+  * Simula o funcionamento de flip-flops e sistemas sequenciais  
+  * Explora montagem e desmontagem de PCs com segurança  
+  * Realiza exercícios de codificação e decodificação de dados  
+  * Planeia os projetos e apresentações finais com antecedência  
+  * Revê conceitos de arquitetura e prototipagem antes de cada teste  
+</WRAP>
+----
+<WRAP centeralign>
+===== ➕ Contribuir =====
+**Tens material útil para esta disciplina?** [[contribuir:add|Partilha aqui!]]
+</WRAP>
+----
+<WRAP centeralign lo>
+[[:start|← Voltar à Página Principal]]
+</WRAP>

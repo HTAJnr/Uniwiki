@@ -1,0 +1,107 @@
+~~NOTOC~~
+====== Inglês I & II ======
+<WRAP centeralign>
+<wrap lo>Ano: [1º] • Semestres: [1º & 2º]</wrap>
+</WRAP>
+----
+<WRAP centeralign>
+===== 📖 Sobre as Disciplinas =====
+Sequência de disciplinas de inglês aplicada ao contexto académico e profissional da engenharia informática.  
+**Inglês I** introduz fundamentos linguísticos e comunicação básica.  
+**Inglês II** expande a compreensão, leitura e produção de textos, vocabulário técnico e comunicação oral em contextos académicos e profissionais.
+</WRAP>
+
+<WRAP group>
+<WRAP half column>
+<WRAP round info>
+===== Inglês I =====
+**Tópicos principais:**
+  * Fundamentos de gramática e vocabulário  
+  * Expressões e conversação básica  
+  * Compreensão e produção de frases simples  
+  * Técnicas de leitura e escrita elementares  
+  * Introdução ao inglês técnico para informática  
+
+**Competências desenvolvidas:**
+  * Compreensão oral e escrita de textos simples  
+  * Produção de frases corretas em inglês  
+  * Vocabulário técnico inicial  
+  * Comunicação básica em situações académicas  
+</WRAP>
+</WRAP>
+
+<WRAP half column>
+<WRAP round info>
+===== Inglês II =====
+**Tópicos principais:**
+  * Leitura e interpretação de textos mais complexos  
+  * Produção de textos académicos simples (resumos, relatórios)  
+  * Comunicação oral estruturada (apresentações, discussões)  
+  * Vocabulário técnico expandido  
+  * Prática de listening e speaking aplicados à informática  
+
+**Competências desenvolvidas:**
+  * Compreensão de textos académicos em inglês  
+  * Redação clara e precisa de pequenos relatórios  
+  * Apresentação oral em inglês com fluência  
+  * Aplicação prática do inglês em contextos profissionais  
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+===== 📚 Recursos Disponíveis =====
+==== Material de Apoio ====
+<WRAP group>
+<WRAP half column>
+<WRAP round box>
+**📂 Pasta da Disciplina no Drive**  
+Exercícios de gramática, vocabulário, listening, speaking e produção escrita. Inclui exemplos de apresentações, leituras técnicas e textos académicos adaptados ao contexto da engenharia informática.  
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://drive.google.com/drive/folders/1fMX73K3Grz6hdATey3IzZ4PAkNRSk85n?usp=sharing|Aceder ao Material]]
+</WRAP>
+</WRAP>
+
+<WRAP half column>
+<WRAP round info>
+**📝 O Que Encontras**
+  * Slides e notas de aulas  
+  * Exercícios de listening e speaking  
+  * Leituras graduadas com vocabulário técnico  
+  * Modelos de textos académicos  
+  * Guias de pronúncia e comunicação oral  
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+===== 💡 Dicas de Estudo =====
+<WRAP round tip 100%>
+<WRAP group>
+<WRAP half column>
+**Para Inglês I:**  
+  * Pratica conversação diariamente  
+  * Aprende vocabulário em contexto  
+  * Escreve pequenas frases e textos curtos  
+  * Ouve áudios em inglês para melhorar a compreensão  
+</WRAP>
+
+<WRAP half column>
+**Para Inglês II:**  
+  * Produz resumos e relatórios em inglês  
+  * Participa em apresentações orais e discussões  
+  * Expande vocabulário técnico  
+  * Realiza exercícios de listening regularmente  
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+<WRAP centeralign>
+===== ➕ Contribuir =====
+**Tens material útil para estas disciplinas?** [[contribuir:add|Partilha aqui!]]
+</WRAP>
+----
+<WRAP centeralign lo>
+[[:start|← Voltar à Página Principal]]
+</WRAP>

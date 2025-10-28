@@ -1,0 +1,50 @@
+====== Tecnologia de Computador ======
+
+A disciplina **Tecnologia de Computador** estuda os componentes físicos e lógicos que constituem um computador, permitindo entender como o hardware e o software interagem para processar informações.  
+
+===== Objetivos =====
+  * Compreender os componentes básicos de um computador e seu funcionamento.  
+  * Estudar dispositivos de entrada, saída, armazenamento e processamento.  
+  * Entender a comunicação entre hardware e software.  
+  * Introduzir conceitos de sistemas digitais e codificação de dados.  
+
+===== Conteúdos =====
+  * **Introdução à Computação**  
+    * Conceitos de hardware e software  
+    * Tipos de computadores (desktop, servidor, mainframe, embutido)  
+  * **Sistemas de Numeração e Codificação**  
+    * Sistemas binário, octal e hexadecimal  
+    * Codificação de caracteres (ASCII, Unicode)  
+    * Representação de números inteiros e reais  
+  * **Unidade Central de Processamento (CPU)**  
+    * Componentes: ALU, registradores, unidade de controle  
+    * Ciclo de instrução (fetch-decode-execute)  
+    * Clock e performance do processador  
+  * **Memória e Armazenamento**  
+    * Tipos de memória: RAM, ROM, cache, memória secundária  
+    * Hierarquia de memória e desempenho  
+  * **Dispositivos de Entrada e Saída**  
+    * Teclados, mouses, monitores, impressoras, discos  
+    * Comunicação com a CPU e controladores de E/S  
+  * **Buses e Interconexões**  
+    * Barramentos de dados, endereços e controle  
+    * Interfaces de comunicação (PCI, USB, SATA)  
+  * **Sistemas Digitais e Lógica**  
+    * Portas lógicas e álgebra Booleana  
+    * Flip-flops e circuitos sequenciais  
+    * Introdução a microcontroladores e microprocessadores  
+
+===== Metodologia =====
+  * Aulas teóricas explicando conceitos de hardware e software.  
+  * Demonstrações práticas de montagem e análise de componentes.  
+  * Exercícios sobre codificação, memórias e CPU.  
+
+===== Avaliação =====
+  * Provas teóricas sobre conceitos e funcionamento do computador.  
+  * Exercícios práticos e listas de estudo.  
+  * Trabalhos de pesquisa sobre tecnologias emergentes.  
+
+===== Bibliografia =====
+  * TANENBAUM, A. *Structured Computer Organization*.  
+  * STALLINGS, W. *Computer Organization and Architecture*.  
+  * HENNESSY, J. & PATTERSON, D. *Computer Architecture: A Quantitative Approach*.  

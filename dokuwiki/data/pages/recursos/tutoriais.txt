@@ -1,0 +1,302 @@
+~~NOTOC~~
+====== Tutoriais e Plataformas de Prática ======
+<WRAP centeralign>
+<wrap lo>Categoria: [Recursos] • Tipo: [Aprendizagem Online]</wrap>
+</WRAP>
+----
+
+<WRAP centeralign>
+===== 🎓 Sobre Este Recurso =====
+Plataformas interativas, tutoriais práticos e canais educativos para complementar a aprendizagem teórica. Recursos gratuitos com exercícios hands-on e projetos reais.
+</WRAP>
+
+**Ideal para:**
+  * Reforçar conceitos aprendidos nas aulas
+  * Prática constante com feedback imediato
+  * Aprender tecnologias fora do currículo oficial
+  * Preparação para entrevistas técnicas
+
+----
+
+===== 🌐 Plataformas de Aprendizagem Completas =====
+<WRAP group>
+<WRAP third column>
+<WRAP round box>
+**🔥 freeCodeCamp**
+
+Currículo completo e gratuito: HTML/CSS, JavaScript, React, Node.js, Python, bases de dados. Certificações reconhecidas e projetos práticos obrigatórios.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://www.freecodecamp.org/|Aceder à Plataforma]]
+
+</WRAP>
+</WRAP>
+
+<WRAP third column>
+<WRAP round box>
+**📚 W3Schools**
+
+Referência rápida com tutoriais interativos. Cobre HTML, CSS, JavaScript, SQL, Python, Java e dezenas de outras tecnologias com exemplos editáveis.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://www.w3schools.com/|Aceder à Plataforma]]
+
+</WRAP>
+</WRAP>
+
+<WRAP third column>
+<WRAP round box>
+**💻 GeeksforGeeks**
+
+Foco em algoritmos, estruturas de dados e preparação para entrevistas. Explicações detalhadas, análise de complexidade e problemas práticos.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://www.geeksforgeeks.org/|Aceder à Plataforma]]
+
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+
+===== 🎮 Gamificação: Aprende Jogando =====
+<WRAP group>
+<WRAP half column>
+<WRAP round box>
+**🐸 Flexbox Froggy**
+
+Jogo interativo para dominar CSS Flexbox. 24 níveis progressivos onde posicionas sapos usando propriedades flex. Aprende de forma intuitiva e divertida.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://flexboxfroggy.com/|Jogar Agora]]
+
+</WRAP>
+</WRAP>
+
+<WRAP half column>
+<WRAP round box>
+**🌱 Grid Garden**
+
+Domina CSS Grid cultivando uma horta virtual. 28 desafios que ensinam desde conceitos básicos até layouts complexos com grid-template-areas.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://cssgridgarden.com/|Jogar Agora]]
+
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+
+===== 🏆 Plataformas de Desafios e Competição =====
+<WRAP group>
+<WRAP third column>
+<WRAP round box>
+**⚔️ LeetCode**
+
+Biblioteca com milhares de problemas de programação. Ideal para preparação de entrevistas técnicas em empresas de tecnologia.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://leetcode.com/|Aceder à Plataforma]]
+
+</WRAP>
+</WRAP>
+
+<WRAP third column>
+<WRAP round box>
+**🎯 HackerRank**
+
+Desafios em múltiplas linguagens e domínios: algoritmos, SQL, matemática, IA. Certificações reconhecidas por recrutadores.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://www.hackerrank.com/|Aceder à Plataforma]]
+
+</WRAP>
+</WRAP>
+
+<WRAP third column>
+<WRAP round box>
+**🥋 Codewars**
+
+Sistema de ranking (kyu/dan) com desafios criativos. Comunidade ativa que propõe soluções alternativas após resolução.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://www.codewars.com/|Aceder à Plataforma]]
+
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+
+===== 📹 Canais YouTube Recomendados =====
+
+==== Programação Geral ====
+<WRAP group>
+<WRAP half column>
+<WRAP round box>
+**🎬 Traversy Media**
+
+Tutoriais práticos sobre desenvolvimento web moderno. Projetos completos em React, Vue, Node.js com código disponível no GitHub.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://www.youtube.com/@TraversyMedia|Visitar Canal]]
+
+</WRAP>
+</WRAP>
+
+<WRAP half column>
+<WRAP round box>
+**🔴 The Net Ninja**
+
+Séries organizadas por tecnologia. Explicações claras desde fundamentos até tópicos avançados. Forte em JavaScript e frameworks modernos.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://www.youtube.com/@NetNinja|Visitar Canal]]
+
+</WRAP>
+</WRAP>
+</WRAP>
+
+==== Algoritmos e Estruturas de Dados ====
+<WRAP group>
+<WRAP half column>
+<WRAP round box>
+**📊 Abdul Bari**
+
+Explicações visuais excecionais de algoritmos complexos. Análise de complexidade, paradigmas (dividir-conquistar, programação dinâmica) e grafos.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://www.youtube.com/@abdul_bari|Visitar Canal]]
+
+</WRAP>
+</WRAP>
+
+<WRAP half column>
+<WRAP round box>
+**🧮 Back To Back SWE**
+
+Foco em preparação para entrevistas técnicas. Resolução detalhada de problemas LeetCode com raciocínio passo-a-passo.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://www.youtube.com/@BackToBackSWE|Visitar Canal]]
+
+</WRAP>
+</WRAP>
+</WRAP>
+
+==== Desenvolvimento Web ====
+<WRAP group>
+<WRAP half column>
+<WRAP round box>
+**🎨 Kevin Powell**
+
+Especialista em CSS moderno. Truques avançados, responsividade, animações e boas práticas de design.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://www.youtube.com/@KevinPowell|Visitar Canal]]
+</WRAP>
+</WRAP>
+
+<WRAP half column>
+<WRAP round box>
+**⚡ Fireship**
+
+Vídeos curtos e densos (100 segundos) sobre tecnologias. Tutoriais rápidos, comparações e tendências da indústria.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://www.youtube.com/@Fireship|Visitar Canal]]
+</WRAP>
+</WRAP>
+</WRAP>
+
+==== Conteúdo em Português ====
+<WRAP group>
+<WRAP third column>
+<WRAP round box>
+**🇵🇹 Código Fonte TV**
+
+Discussões sobre carreira, tecnologias emergentes e conceitos fundamentais. Linguagem acessível e humor descontraído.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://www.youtube.com/@codigofontetv|Visitar Canal]]
+
+</WRAP>
+</WRAP>
+
+<WRAP third column>
+<WRAP round box>
+**🇧🇷 Curso em Vídeo (Gustavo Guanabara)**
+
+Cursos completos e gratuitos: Python, Java, JavaScript, Git. Didática excelente para iniciantes.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://www.youtube.com/@CursoemVideo|Visitar Canal]]
+
+</WRAP>
+</WRAP>
+
+<WRAP third column>
+<WRAP round box>
+**🇵🇹 Loiane Groner**
+
+Cursos longos e estruturados. Ideal para aprender linguagens/frameworks do zero com projetos práticos.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://www.youtube.com/@loianegroner|Visitar Canal]]
+
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+
+===== 📖 Recursos Complementares =====
+<WRAP group>
+<WRAP third column>
+<WRAP round box>
+**📘 MDN Web Docs**
+
+Documentação definitiva sobre tecnologias web (HTML, CSS, JS). Mantida pela Mozilla, referência para desenvolvedores profissionais.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://developer.mozilla.org/|Aceder ao Site]]
+
+</WRAP>
+</WRAP>
+
+<WRAP third column>
+<WRAP round box>
+**🎓 Codecademy**
+
+Cursos interativos com editor integrado. Plano gratuito cobre fundamentos de várias linguagens.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://www.codecademy.com/|Aceder à Plataforma]]
+
+</WRAP>
+</WRAP>
+
+<WRAP third column>
+<WRAP round box>
+**🔍 Stack Overflow**
+
+Comunidade Q&A com milhões de respostas. Praticamente qualquer erro de programação já foi discutido aqui.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://stackoverflow.com/|Aceder ao Site]]
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+
+===== 💡 Estratégias de Aprendizagem =====
+<WRAP round tip>
+**Rotina sugerida:**
+  * **Diariamente:** 30 min num desafio (LeetCode/HackerRank)
+  * **Semanalmente:** Completa 1 projeto pequeno de tutorial
+  * **Mensalmente:** Contribui com solução no fórum ou repositório
+  * Alterna entre aprender novos conceitos e consolidar conhecidos
+</WRAP>
+
+<WRAP round important>
+**Evita armadilhas comuns:**
+  * **Tutorial hell:** Não acumules cursos sem construir projetos próprios
+  * **Comparação:** Cada pessoa aprende no seu ritmo
+  * **Perfecionismo:** Código funcional > código perfeito quando estás a aprender
+  * **Isolamento:** Participa em comunidades (Discord, Reddit) para manter motivação
+</WRAP>
+
+----
+
+<WRAP centeralign>
+===== ➕ Conheces Outros Recursos? =====
+**Tens plataformas ou canais favoritos? [[contribuir:add|Partilha connosco!]]**
+</WRAP>
+
+----
+
+<WRAP centeralign lo>
+[[:start|← Voltar à página principal]]
+</WRAP>

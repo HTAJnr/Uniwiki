@@ -1,0 +1,117 @@
+~~NOTOC~~
+====== Matemática Discreta I & II ======
+<WRAP centeralign>
+<wrap lo>Ano: [1º] • Semestres: [1º & 2º] </wrap>
+</WRAP>
+----
+<WRAP centeralign>
+===== 📖 Sobre as Disciplinas =====
+Sequência fundamental de matemática para ciência da computação. **MDI** estabelece fundações lógicas e combinatórias. **MDII** expande para teoria dos grafos e análise algorítmica. Juntas formam o esqueleto matemático para algoritmos, complexidade, bases de dados e teoria da computação.
+</WRAP>
+
+<WRAP group>
+<WRAP half column>
+
+
+<WRAP round info>
+===== Matemática Discreta I =====
+**Tópicos principais:**
+  * Lógica proposicional e lógica de predicados
+  * Métodos de prova (directas, indirectas, contra-positiva)
+  * Princípio de indução matemática
+  * Teoria de conjuntos e operações
+  * Relações binárias e relações de ordem parcial
+  * Funções (injectivas, sobrejectivas, bijectivas)
+  * Métodos de contagem: princípios da soma e do produto
+  * Permutações e combinações
+
+**Competências desenvolvidas:**
+  * Raciocínio lógico formal e argumentação rigorosa
+  * Construção e validação de demonstrações matemáticas
+  * Manipulação de estruturas discretas abstractas
+  * Resolução de problemas combinatórios
+</WRAP>
+</WRAP>
+
+<WRAP half column>
+<WRAP round info>
+===== Matemática Discreta II =====
+**Tópicos principais:**
+  * Relações de recorrência lineares (homogéneas e não-homogéneas)
+  * Notações assintóticas e complexidade de algoritmos (O-Grande, Omega, Theta)
+  * Complexidade de algoritmos recursivos
+  * Grafos: conceitos básicos e representação
+  * Grafos especiais (completos, bipartidos, regulares)
+  * Grafo complementar e representação matricial
+  * Caminhos, ciclos e conectividade em grafos
+  * Ciclos de Euler e caminhos de Euler
+  * Árvore geradora e algoritmos (Prim, Kruskal)
+  * Caminho mais curto (Dijkstra)
+
+**Competências desenvolvidas:**
+  * Modelação de problemas reais usando grafos
+  * Análise de complexidade algorítmica
+  * Aplicação de algoritmos fundamentais em grafos
+  * Resolução de problemas de optimização em redes
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+===== 📚 Recursos Disponíveis =====
+==== Material de Apoio ====
+<WRAP group>
+<WRAP half column>
+<WRAP round box>
+**📂 Pasta da Disciplina no Drive**  
+Slides teóricos de MDI e MDII, exercícios resolvidos passo a passo, fichas de trabalho com soluções detalhadas. Inclui tabelas de verdade, demonstrações comentadas, visualizações de grafos e trace de algoritmos.  
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://drive.google.com/drive/folders/1M9o0TJKz5jeQRBRmR1nDqEaeP069RYxq?usp=sharing|Aceder ao Material]]
+</WRAP>
+</WRAP>
+
+<WRAP half column>
+<WRAP round info>
+**📝 O Que Encontras**
+  * Slides teóricos de ambas as disciplinas
+  * Exercícios resolvidos com justificações
+  * Tabelas de fórmulas e notações
+  * Pseudocódigo de algoritmos fundamentais
+  * Exames de anos anteriores com soluções
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+===== 💡 Dicas de Estudo =====
+
+<WRAP round tip 100%>
+
+<WRAP group>
+<WRAP half column>
+**Para MDI:**
+  * Pratica demonstrações escrevendo-as completamente, não só mentalmente  
+  * Constrói tabelas de verdade até se tornarem automáticas  
+  * Indução matemática: domina os 3 passos (base, hipótese, passo indutivo)  
+  * Combinatória: desenha diagramas para visualizar o problema  
+</WRAP>
+
+<WRAP half column>
+**Para MDII:**
+  * Desenha grafos à mão para entender algoritmos visualmente  
+  * Simula algoritmos passo a passo em exemplos pequenos  
+  * Para Dijkstra/Prim: pratica com diferentes grafos até automatizar  
+  * Conecta conceitos com aplicações reais (GPS, redes sociais, routing)  
+  * Implementa algoritmos em código (mesmo que não seja exigido)  
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+<WRAP centeralign>
+===== ➕ Contribuir =====
+**Tens material útil para estas disciplinas?** [[contribuir:add|Partilha aqui!]]
+</WRAP>
+----
+<WRAP centeralign lo>
+[[:start|← Voltar a Página Principal]]
+</WRAP>

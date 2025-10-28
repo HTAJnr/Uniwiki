@@ -1,0 +1,73 @@
+~~NOTOC~~
+====== Programação Orientada a Objectos I ======
+<WRAP centeralign>
+<wrap lo>Ano: [1º] • Semestre: [2º]</wrap>
+</WRAP>
+----
+<WRAP centeralign>
+===== 📖 Sobre a Disciplina =====
+Continuação natural de **Introdução à Programação**, esta disciplina introduz o paradigma da **programação orientada a objectos (POO)**, estruturando o pensamento de programação em torno de **classes**, **objectos** e **métodos**.  
+O foco está na organização modular do código, manipulação de dados através de arrays e ficheiros, e boas práticas de estruturação e reutilização de código.
+</WRAP>
+
+<WRAP center round info 40%>
+**Tópicos principais:**
+  * Revisão de conceitos fundamentais de programação (Java)  
+  * Modularização do código através de métodos  
+  * Introdução a classes e objectos  
+  * Declaração e manipulação de atributos e métodos  
+  * Arrays unidimensionais e bidimensionais  
+  * Arrays de objectos  
+  * Escrita e leitura em ficheiros de texto  
+  * Escrita e leitura de objectos em ficheiros  
+
+**Competências desenvolvidas:**
+  * Aplicação prática do paradigma orientado a objectos  
+  * Organização de programas em classes e métodos reutilizáveis  
+  * Manipulação eficiente de dados em estruturas de array  
+  * Persistência de dados usando ficheiros  
+  * Desenvolvimento de pequenos sistemas modulares em Java  
+</WRAP>
+----
+===== 📚 Recursos Disponíveis =====
+==== Material de Apoio ====
+<WRAP group>
+<WRAP half column>
+<WRAP round box>
+**📂 Pasta da Disciplina no Drive**  
+Slides teóricos, exercícios práticos em Java, projetos guiados e exemplos resolvidos sobre métodos, classes, arrays e manipulação de ficheiros.  
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://drive.google.com/drive/folders/1RbygQFqc7RRayK_8RkcPl94jlcPPAlD7?usp=sharing|Aceder ao Material]]
+</WRAP>
+</WRAP>
+
+<WRAP half column>
+<WRAP round info>
+**📝 O Que Encontras**
+  * Exemplos de código comentados  
+  * Exercícios sobre arrays e métodos  
+  * Guias de introdução à POO em Java  
+  * Projetos práticos (gestão simples de dados)  
+  * Ficheiros de treino para leitura/escrita  
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+===== 💡 Dicas de Estudo =====
+<WRAP round tip 100%>
+  * Divide problemas em métodos antes de codificar  
+  * Usa nomes de classes e métodos descritivos  
+  * Pratica manipulação de arrays — são base para estruturas mais complexas  
+  * Aprende a ler e escrever ficheiros com atenção ao tratamento de erros  
+  * Reforça a ligação entre IP e POO — o pensamento lógico é o mesmo, apenas mais estruturado  
+</WRAP>
+----
+<WRAP centeralign>
+===== ➕ Contribuir =====
+**Tens material útil para esta disciplina?** [[contribuir:add|Partilha aqui!]]
+</WRAP>
+----
+<WRAP centeralign lo>
+[[:start|← Voltar à Página Principal]]
+</WRAP>

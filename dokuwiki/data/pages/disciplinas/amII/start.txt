@@ -1,0 +1,125 @@
+~~NOTOC~~
+====== Análise Matemática I & II ======
+<WRAP centeralign>
+<wrap lo>Ano: [1º] • Semestres: [1º & 2º] </wrap>
+</WRAP>
+----
+<WRAP centeralign>
+===== 📖 Sobre as Disciplinas =====
+Conjunto de duas disciplinas fundamentais para a formação matemática do engenheiro informático.  
+**Análise Matemática I** aborda os conceitos de limites, derivadas e aplicações do cálculo diferencial.  
+**Análise Matemática II** introduz o cálculo integral, sequências, séries e equações diferenciais elementares.  
+Juntas, desenvolvem a capacidade analítica e o raciocínio rigoroso necessários para modelar e resolver problemas em ciências e engenharia.
+</WRAP>
+
+<WRAP group>
+<WRAP half column>
+
+<WRAP round info>
+===== Análise Matemática I =====
+**Tópicos principais:**
+  * Conjuntos numéricos e funções reais  
+  * Domínio, imagem, paridade e periodicidade  
+  * Funções elementares (polinomiais, racionais, exponenciais, logarítmicas e trigonométricas)  
+  * Limites e continuidade de funções reais  
+  * Propriedades de limites e teoremas de continuidade  
+  * Derivadas — definição, regras de derivação e derivadas sucessivas  
+  * Aplicações da derivada: crescimento, decrescimento, extremos e pontos de inflexão  
+  * Teoremas de Rolle, Lagrange e Cauchy  
+  * Estudo de funções — construção e interpretação de gráficos  
+  * Diferenciais e aproximações lineares  
+  * Aplicações práticas em engenharia e otimização  
+  * Exercícios de consolidação e revisão para o teste  
+
+**Competências desenvolvidas:**
+  * Compreensão rigorosa de limites, derivadas e suas aplicações  
+  * Capacidade de interpretar o comportamento de funções  
+  * Modelação de situações reais através de funções contínuas e diferenciáveis  
+  * Aplicação de técnicas de derivação a problemas de otimização e taxas de variação  
+</WRAP>
+</WRAP>
+
+<WRAP half column>
+<WRAP round info>
+===== Análise Matemática II =====
+**Tópicos principais:**
+  * Revisão de conceitos fundamentais do cálculo diferencial  
+  * Introdução ao cálculo integral  
+  * Integrais definidos e indefinidos — propriedades e técnicas de integração  
+  * Métodos de integração: por substituição, por partes e frações parciais  
+  * Aplicações do integral: áreas, volumes de revolução e trabalho  
+  * Sequências e séries numéricas — convergência e divergência  
+  * Séries de potências e séries de Taylor e Maclaurin  
+  * Equações diferenciais ordinárias de 1ª ordem  
+  * Modelação de problemas físicos com EDOs simples (crescimento populacional, arrefecimento, circuitos RC)  
+  * Introdução a funções de várias variáveis  
+  * Derivadas parciais e gradiente  
+  * Aplicações a superfícies e otimização multivariável  
+  * Exercícios de consolidação e preparação para o exame  
+
+**Competências desenvolvidas:**
+  * Capacidade de resolver problemas com integrais e séries  
+  * Análise e interpretação de convergência de sequências e séries  
+  * Aplicação de equações diferenciais em contextos reais  
+  * Extensão do raciocínio diferencial ao cálculo multivariável  
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+===== 📚 Recursos Disponíveis =====
+==== Material de Apoio ====
+<WRAP group>
+<WRAP half column>
+<WRAP round box>
+**📂 Pasta da Disciplina no Drive**  
+Slides teóricos, exercícios resolvidos passo a passo, fichas práticas e exemplos aplicados. Inclui resumos de teoremas, tabelas de derivadas e integrais, bem como provas comentadas de exames anteriores.  
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://drive.google.com/drive/folders/1NW4Y7NauBuoK4Wp1fOm_s9wYvUn5puAA?usp=sharing|Aceder ao Material]]
+</WRAP>
+</WRAP>
+
+<WRAP half column>
+<WRAP round info>
+**📝 O Que Encontras**
+  * Slides teóricos e resumos  
+  * Exercícios resolvidos com explicações  
+  * Fichas de trabalho para prática individual  
+  * Tabelas de derivadas, integrais e limites  
+  * Exames e testes anteriores com soluções  
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+===== 💡 Dicas de Estudo =====
+
+<WRAP round tip 100%>
+
+<WRAP group>
+<WRAP half column>
+**Para Análise Matemática I:**
+  * Domina as regras de derivação e pratica a análise de gráficos  
+  * Faz resumos de propriedades de limites e continuidade  
+  * Resolve problemas de otimização em papel — não apenas de forma teórica  
+  * Usa calculadoras gráficas ou GeoGebra para visualizar funções  
+</WRAP>
+
+<WRAP half column>
+**Para Análise Matemática II:**
+  * Pratica técnicas de integração até se tornarem automáticas  
+  * Faz exercícios de séries numéricas e verifica a convergência passo a passo  
+  * Liga equações diferenciais a situações reais (física, economia, biologia)  
+  * Revisa derivadas parciais e aplicações a superfícies e volumes  
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+<WRAP centeralign>
+===== ➕ Contribuir =====
+**Tens material útil para estas disciplinas?** [[contribuir:add|Partilha aqui!]]
+</WRAP>
+----
+<WRAP centeralign lo>
+[[:start|← Voltar a Página Principal]]
+</WRAP>

@@ -1,0 +1,71 @@
+~~NOTOC~~
+====== Programação Orientada a Objectos II ======
+<WRAP centeralign>
+<wrap lo>Ano: [2º] • Semestre: [1º]</wrap>
+</WRAP>
+----
+<WRAP centeralign>
+===== 📖 Sobre a Disciplina =====
+Continuação de **POO I**, esta disciplina aprofunda conceitos de **herança**, **polimorfismo** e desenvolvimento de **interfaces gráficas** com **Swing** e **AWT**.  
+Inclui ainda **diagramas UML** para modelação de sistemas e utilização de **ArrayList** para manipulação dinâmica de coleções de objectos em Java.
+</WRAP>
+
+<WRAP center round info 40%>
+**Tópicos principais:**
+  * Herança de classes e especialização de objectos  
+  * Polimorfismo e sobrecarga de métodos  
+  * Interfaces gráficas com Swing e AWT  
+  * Eventos e listeners em GUI  
+  * Diagramas UML: classes, relações e herança  
+  * Utilização de ArrayList e coleções dinâmicas  
+
+**Competências desenvolvidas:**
+  * Criação de sistemas modulares e reutilizáveis em Java  
+  * Implementação de interfaces gráficas funcionais  
+  * Aplicação de herança e polimorfismo em programas reais  
+  * Modelação de sistemas com diagramas UML  
+  * Manipulação de coleções de objectos de forma eficiente  
+</WRAP>
+----
+===== 📚 Recursos Disponíveis =====
+==== Material de Apoio ====
+<WRAP group>
+<WRAP half column>
+<WRAP round box>
+**📂 Pasta da Disciplina no Drive**  
+Slides, exemplos de código Java, exercícios de herança, polimorfismo, GUI com Swing/AWT e projetos guiados. Inclui modelos de diagramas UML e exemplos de utilização de ArrayList.  
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://drive.google.com/drive/folders/1jDWSFH54dEEGmibUBCKH0WxycNM765gK?usp=sharing|Aceder ao Material]]
+</WRAP>
+</WRAP>
+
+<WRAP half column>
+<WRAP round info>
+**📝 O Que Encontras**
+  * Exemplos de herança e polimorfismo comentados  
+  * Projetos com interfaces gráficas  
+  * Exercícios de ArrayList e coleções  
+  * Diagramas UML de classes e relações  
+  * Guias passo a passo para construção de GUIs  
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+===== 💡 Dicas de Estudo =====
+<WRAP round tip 100%>
+  * Planeia classes e hierarquias antes de codificar  
+  * Testa polimorfismo e sobrecarga com exemplos pequenos  
+  * Cria interfaces gráficas simples antes de projetos maiores  
+  * Desenha diagramas UML para visualizar relações entre classes  
+  * Pratica manipulação de ArrayList com diferentes tipos de objectos  
+</WRAP>
+----
+<WRAP centeralign>
+===== ➕ Contribuir =====
+**Tens material útil para esta disciplina?** [[contribuir:add|Partilha aqui!]]
+</WRAP>
+----
+<WRAP centeralign lo>
+[[:start|← Voltar à Página Principal]]
+</WRAP>

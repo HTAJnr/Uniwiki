@@ -1,0 +1,17 @@
+====== Reportar Problemas ======
+
+<WRAP centeralign>
+<wrap lo>Ajude-nos a melhorar a comunidade e a sua experiência</wrap>
+</WRAP>
+
+----
+<WRAP centeralign>
+===== 📤 Formulário de Report =====
+
+{{url>https://forms.gle/Xzt2ABRmwF82ULTi9 720px, 1040px noscroll noborder center fullscreen|Formulario de Report}}
+</WRAP>
+----
+
+<WRAP centeralign lo>
+[[:start|← Voltar à página principal]]
+</WRAP>

@@ -1,0 +1,89 @@
+~~NOTOC~~
+====== Arquitetura de Computadores ======
+<WRAP centeralign>
+<wrap lo>Ano: [1º] • Semestre: [2º] </wrap>
+</WRAP>
+----
+<WRAP centeralign>
+===== 📖 Sobre a Disciplina =====
+Introduz os fundamentos da arquitetura de computadores, explorando desde a estrutura interna dos sistemas computacionais até a execução de instruções em nível de hardware. A disciplina cobre a organização, funcionamento e evolução dos computadores, preparando o estudante para compreender como o software interage com o hardware de forma otimizada e eficiente.
+</WRAP>
+
+<WRAP center round info 80%>
+**Tópicos principais:**
+  * Apresentação da disciplina e calendarização das avaliações   
+  * Introdução à Arquitetura de Computadores: conceitos gerais, organização, estrutura e funções  
+  * História e evolução dos sistemas computacionais  
+  * Arquitetura Computacional de John von Neumann  
+  * Organização do Sistema Computacional: níveis de desenho modular, performance, princípios de desenho (CISC e RISC)  
+  * Níveis de registos (sequenciais, combinados)  
+  * Organização da memória: hierarquia, RAM, SRAM, DRAM  
+  * ROM, PROM, EPROM, EEPROMs, disco magnético, RAID, memória virtual e segmentação  
+  * Memória cache  
+  * Organização da Unidade Lógica e Aritmética: representação numérica, sistemas decimais, binário, hexadecimal e octal  
+  * Unidade Aritmética e Lógica, representação em ponto flutuante e tabela ASCII  
+  * Organização de entrada e saída: sistema de E/S, módulo E/S, tipos de operações de E/S  
+  * Processador de E/S, barramentos e desenho do sistema bus  
+  * Portas lógicas e sua tipologia  
+  * Arquitetura Pipeline: conceitos, abordagens e implementação  
+  * Pipelines estáticos e dinâmicos  
+  * Arquitetura MultiCore: definição e organização  
+  * Estudo de casos: Intel Core Duo, Core 2 Duo, Core 2 Quad, IBM Power 5, Core i7 e Sun UltraSPARC T2  
+  * Introdução à linguagem Assembly: conceitos, E/S, aritmética e lógica  
+  * Movimentação de dados e instruções de salto  
+  * Ciclos, procedimentos, macros e tipos de endereçamento  
+  * Pilhas  
+  * Exercícios de consolidação e preparação para testes  
+  * Apresentação e discussão de projetos em grupo  
+  * Considerações finais
+
+**Competências desenvolvidas:**
+  * Compreensão da estrutura interna dos computadores
+  * Identificação e análise de componentes de hardware
+  * Programação em linguagem Assembly
+  * Capacidade de interpretar arquiteturas e modelos de desempenho
+  * Aplicação prática de princípios de design e otimização de hardware
+</WRAP>
+----
+===== 📚 Recursos Disponíveis =====
+==== Material de Apoio ====
+<WRAP group>
+<WRAP half column>
+<WRAP round box>
+**📂 Pasta da Disciplina no Drive**
+Slides, exercícios resolvidos, fichas práticas e exemplos de montagem e simulação. Inclui material sobre processadores, memória, barramentos e programação em Assembly.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://drive.google.com/drive/folders/1xSW25N92GwHqZbjlBS-EFg3rgSp6yz9B?usp=sharing|Aceder ao Material]]
+</WRAP>
+</WRAP>
+
+<WRAP half column>
+<WRAP round info>
+**📝 O Que Encontras**
+  * Slides teóricos por módulo
+  * Fichas práticas com simulações (Logisim, Proteus, etc.)
+  * Guias de montagem e análise de circuitos digitais
+  * Exemplos de programas em Assembly
+  * Testes e exames resolvidos
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+===== 💡 Dicas de Estudo =====
+<WRAP round tip 100%>
+  * Desenha esquemas de organização do computador (CPU, memória, barramentos)
+  * Usa simuladores (como Logisim ou Proteus) para visualizar circuitos
+  * Aprende as instruções Assembly praticando exemplos pequenos
+  * Cria resumos de tipos de memória e diferenças entre CISC e RISC
+  * Estuda o funcionamento do pipeline e tenta simulá-lo em pseudocódigo
+</WRAP>
+----
+<WRAP centeralign>
+===== ➕ Contribuir =====
+**Tens material útil para esta disciplina?** [[contribuir:add|Partilha aqui!]]
+</WRAP>
+----
+<WRAP centeralign lo>
+[[:start|← Voltar a Página Principal]]
+</WRAP>

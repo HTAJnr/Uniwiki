@@ -1,0 +1,53 @@
+====== Análise Matemática I ======
+
+A disciplina **Análise Matemática I** introduz os conceitos fundamentais de cálculo e análise matemática, essenciais para Engenharia, Ciência da Computação e áreas científicas em geral. O foco é desenvolver raciocínio lógico, habilidades de cálculo e compreensão de limites, derivadas e integrais.  
+
+===== Objetivos =====
+  * Compreender os conceitos de **limite, continuidade e derivada**.  
+  * Aplicar técnicas de **diferenciação e integração** em problemas matemáticos e físicos.  
+  * Desenvolver raciocínio matemático rigoroso e precisão no cálculo.  
+  * Introduzir séries e sequências numéricas.  
+
+===== Conteúdos =====
+  * **Números Reais e Suas Propriedades**  
+    * Conjuntos, intervalos e operações básicas  
+    * Propriedades de desigualdades  
+  * **Funções**  
+    * Definição, domínio e contradomínio  
+    * Funções elementares (polinomiais, racionais, exponenciais, logarítmicas, trigonométricas)  
+  * **Limites e Continuidade**  
+    * Limites de funções e sequências  
+    * Propriedades e regras de limite  
+    * Limite infinito e limites no infinito  
+    * Continuidade de funções  
+  * **Derivadas**  
+    * Definição e interpretação geométrica  
+    * Regras de derivação (soma, produto, quociente, cadeia)  
+    * Derivadas de funções elementares  
+    * Aplicações: crescimento, decrescimento, máximos e mínimos  
+    * Teorema de Rolle e Teorema de Lagrange  
+  * **Integrais**  
+    * Integração indefinida  
+    * Técnicas de integração: substituição, partes  
+    * Integração definida  
+    * Teorema Fundamental do Cálculo  
+    * Aplicações: área, volume, comprimento de curva  
+  * **Sequências e Séries**  
+    * Convergência de sequências  
+    * Séries numéricas: convergência, divergência  
+    * Séries geométricas e harmônicas  
+
+===== Metodologia =====
+  * Aulas teóricas e práticas com exercícios.  
+  * Listas de exercícios para fixação de conceitos.  
+  * Aplicações práticas em problemas de física e engenharia.  
+
+===== Avaliação =====
+  * Testes e provas escritas.  
+  * Exercícios de aplicação.  
+  * Projetos ou trabalhos opcionais.  
+
+===== Bibliografia =====
+  * STEWART, J. *Cálculo: Volume 1*.  
+  * THOMAS, G. B. *Cálculo e Geometria Analítica*.  
+  * APOSTOL, T. *Calculus, Vol. 1*.  

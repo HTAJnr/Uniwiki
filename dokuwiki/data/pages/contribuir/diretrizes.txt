@@ -1,0 +1,91 @@
+~~NOTOC~~
+====== Diretrizes de Contribuição ======
+
+
+
+<WRAP centeralign>
+<wrap lo>Regras simples para manter qualidade</wrap>
+</WRAP>
+
+----
+
+<WRAP centeralign>
+===== ✅ O Que Aceitamos =====
+
+</WRAP>
+
+<WRAP round tip>
+**Materiais bem-vindos:**
+  * 📕 Livros em domínio público ou com permissão explícita
+  * 📄 Apontamentos originais (teus ou com autorização do autor)
+  * ✏️ Exercícios resolvidos (desde que não sejam de avaliações ativas)
+  * 🔗 Links para recursos educativos legítimos
+  * 🎥 Vídeos próprios ou links para conteúdo público
+</WRAP>
+
+----
+<WRAP centeralign>
+===== ❌ O Que NÃO Aceitamos =====
+
+</WRAP>
+<WRAP round important>
+**Proibido:**
+  * 🚫 Material protegido por direitos de autor sem permissão
+  * 🚫 Exames ou testes de avaliação atuais
+  * 🚫 Conteúdo plagiado
+  * 🚫 Material ofensivo ou discriminatório
+  * 🚫 Software pirata ou cracks
+</WRAP>
+
+----
+<WRAP centeralign>
+===== 📐 Padrões de Qualidade =====
+
+**Nomenclatura de ficheiros:**
+  * Usa nomes descritivos: `algoritmos_exercicios_lista3.pdf`
+  * Evita: `Documento1.pdf`, `asdfgh.txt`
+  * Inclui ano/semestre quando relevante
+
+**Organização:**
+  * Um tópico por contribuição
+  * Descreve claramente o conteúdo
+  * Indica pré-requisitos se aplicável
+
+**Formato:**
+  * PDF preferencial para documentos
+  * Markdown para texto simples
+  * Evita formatos proprietários (.docx, .pages)
+</WRAP>
+----
+<WRAP centeralign>
+===== 🔒 Privacidade & Ética =====
+</WRAP>
+<WRAP round info>
+  * Não partilhes informação pessoal de professores sem consentimento
+  * Remove metadata sensível de ficheiros antes de submeter
+  * Respeita a propriedade intelectual alheia
+  * Identifica claramente autoria original quando aplicável
+</WRAP>
+
+----
+<WRAP centeralign>
+===== ⚖️ Responsabilidade =====
+
+Ao contribuir, confirmas que:
+  * Tens direito de partilhar o material
+  * O conteúdo não viola leis de propriedade intelectual
+  * A informação é precisa ao teu melhor conhecimento
+
+*A administração reserva-se o direito de remover conteúdo inadequado.*
+</WRAP>
+----
+
+<WRAP centeralign>
+**Dúvidas?** [[contacto|Contacta-nos]]
+</WRAP>
+
+----
+
+<WRAP centeralign lo>
+[[:start|← Voltar à página principal]]
+</WRAP>

@@ -1,0 +1,76 @@
+~~NOTOC~~
+====== Física ======
+<WRAP centeralign>
+<wrap lo>Ano: [2º] • Semestre: [1º] </wrap>
+</WRAP>
+----
+<WRAP centeralign>
+===== 📖 Sobre a Disciplina =====
+Disciplina que aborda os conceitos fundamentais de **mecânica clássica, eletromagnetismo, ondas e óptica**, com foco na aplicação de leis físicas a problemas de engenharia e ciências. Desenvolve raciocínio analítico e capacidade de resolução de problemas quantitativos.
+</WRAP>
+
+<WRAP center round info 60%>
+**Tópicos principais:**
+  * Grandezas físicas e unidades  
+  * Leis de Newton e aplicação a problemas de dinâmica  
+  * Lei de Coulomb e campo elétrico  
+  * Capacitância e associação de capacitores  
+  * Leis de conservação: energia, quantidade de movimento e momento angular  
+  * Movimento de partículas e sistemas de partículas  
+  * Cinemática e dinâmica de corpos rígidos  
+  * Oscilações e ondas mecânicas  
+  * Óptica geométrica: reflexão, refração e lentes  
+  * Probabilidades e combinações aplicadas à física experimental
+
+**Competências desenvolvidas:**
+  * Analisar e resolver problemas físicos usando fórmulas e conceitos fundamentais  
+  * Aplicar leis de Newton, Coulomb e conservação em sistemas mecânicos e elétricos  
+  * Calcular propriedades de capacitores e circuitos elétricos simples  
+  * Interpretar gráficos de movimento, energia e força  
+  * Desenvolver raciocínio crítico e modelagem matemática de fenômenos físicos
+
+</WRAP>
+----
+===== 📚 Recursos Disponíveis =====
+==== Material de Apoio ====
+<WRAP group>
+<WRAP half column>
+<WRAP round box>
+**📂 Pasta da Disciplina no Drive**
+Slides das aulas teóricas, exercícios resolvidos, fichas práticas, problemas de aplicação, exemplos de cálculo e mini-projetos experimentais. Inclui também exames anteriores comentados.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://drive.google.com/drive/folders/16-baXz20N9zbWxMjDxdjTCoUOkNk0t8E?usp=sharing|Aceder ao Material]]
+
+</WRAP>
+</WRAP>
+<WRAP half column>
+<WRAP round info>
+**📝 O Que Encontras**
+  * Slides teóricos por tópico  
+  * Exercícios progressivos (básico → avançado)  
+  * Guias de resolução passo-a-passo  
+  * Tabelas físicas e fórmulas essenciais  
+  * Exemplos de aplicação em engenharia e problemas experimentais  
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+===== 💡 Dicas de Estudo =====
+<WRAP round tip 100%>
+  * Pratica muitos exercícios com fórmulas e unidades corretas  
+  * Desenha diagramas de forças, campos e trajetórias  
+  * Revê constantemente leis de Newton e Coulomb  
+  * Simula situações físicas para melhor compreensão de conceitos  
+  * Resolva problemas de capacitores e associações para fixar conceitos
+
+</WRAP>
+----
+<WRAP centeralign>
+===== ➕ Contribuir =====
+**Tens material útil para esta disciplina?** [[contribuir:add|Partilha aqui!]]
+</WRAP>
+----
+<WRAP centeralign lo>
+[[:start|← Voltar à Página Principal]]
+</WRAP>

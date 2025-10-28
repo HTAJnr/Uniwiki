@@ -1,0 +1,75 @@
+====== Arquitetura de Computadores ======
+
+<WRAP centeralign>
+<wrap lo> Ano: [1º] • Semestre: [2]</wrap>
+</WRAP>
+
+----
+
+<WRAP centeralign>
+===== 📖 Sobre a Disciplina =====
+</WRAP>
+
+A disciplina **Arquitetura de Computador** estuda o projeto e a organização interna de computadores, abordando o design de processadores, memórias, interfaces e sistemas de entrada/saída. O foco é entender como projetar máquinas eficientes e confiáveis.  
+
+===== Objetivos =====
+  * Entender a estrutura interna de processadores e unidades de controle.  
+  * Compreender a organização da memória e hierarquia de armazenamento.  
+  * Analisar o desempenho do computador e técnicas de otimização.  
+  * Introduzir arquiteturas modernas, incluindo paralelismo e pipelines. 
+
+**Tópicos principais:**
+  * **Visão Geral da Arquitetura de Computadores**  
+    * Diferença entre organização e arquitetura  
+    * Tipos de arquitetura: Von Neumann e Harvard  
+  * **Processadores e Unidade Central de Processamento (CPU)**  
+    * Estrutura interna: ALU, registradores, UC  
+    * Ciclo de instrução e execução  
+    * Pipeline e paralelismo em nível de instrução  
+  * **Memória e Hierarquia**  
+    * Cache, RAM, ROM e memória secundária  
+    * Mapeamento de cache e política de substituição  
+    * Memória virtual e gerenciamento de memória  
+  * **Sistemas de Entrada e Saída**  
+    * Controladores e técnicas de comunicação (DMA, interrupções)  
+    * Dispositivos modernos e protocolos  
+  * **Buses e Comunicação Interna**  
+    * Barramentos de dados, endereços e controle  
+    * Barramentos síncronos e assíncronos  
+  * **Arquitetura Avançada**  
+    * Multiprocessamento e paralelismo  
+    * Arquiteturas RISC e CISC  
+    * Introdução a GPUs e computação paralela  
+  * **Desempenho e Otimização**  
+    * Medidas de desempenho e benchmarking  
+    * Técnicas de otimização de pipeline e memória  
+
+===== Metodologia =====
+  * Aulas teóricas detalhando componentes internos e organização.  
+  * Simulações de execução de instruções e análise de desempenho.  
+  * Exercícios sobre memória, CPU e arquiteturas modernas.  
+
+===== Avaliação =====
+  * Provas escritas sobre conceitos e arquitetura interna.  
+  * Exercícios práticos e listas de aplicação.  
+  * Trabalhos de análise de desempenho e projeto de arquitetura. 
+
+----
+
+<WRAP centeralign>
+<WRAP round info 100%>
+<wrap em huge>📭</wrap>
+
+**Ainda sem conteúdo nesta disciplina!**
+
+Esta página está à espera das tuas contribuições.
+
+[[contribuir:add | Clique aqui para contribuir]]
+</WRAP>
+</WRAP>
+
+----
+
+<WRAP centeralign lo>
+[[:start|← Voltar à página principal]]
+</WRAP>

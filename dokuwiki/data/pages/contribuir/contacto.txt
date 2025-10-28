@@ -1,0 +1,93 @@
+~~NOTOC~~
+====== Contacto ======
+
+<WRAP centeralign>
+<wrap lo>Estamos aqui para ajudar</wrap>
+</WRAP>
+
+----
+<WRAP centeralign>
+===== 📧 Email =====
+</WRAP>
+
+<WRAP group>
+<WRAP half column>
+<WRAP round box>
+**Geral:**
+[[uniwiki@uniwiki.edu|uniwiki@uniwiki.edu]]
+
+Para questões gerais sobre o projeto
+</WRAP>
+</WRAP>
+
+<WRAP half column>
+<WRAP round box>
+**Contribuições:**
+[[recursos@uniwiki.edu|recursos@uniwiki.edu]]
+
+Submissão de materiais e recursos
+</WRAP>
+</WRAP>
+</WRAP>
+
+<WRAP group>
+<WRAP half column>
+<WRAP round box>
+**Problemas Técnicos:**
+[[admin@uniwiki.edu|admin@uniwiki.edu]]
+
+Reportar bugs ou erros no site
+</WRAP>
+</WRAP>
+
+<WRAP half column>
+<WRAP round box>
+**Parcerias:**
+[[parcerias@uniwiki.edu|parcerias@uniwiki.edu]]
+
+Propostas de colaboração institucional
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+
+<WRAP centeralign>
+===== 💬 Redes Sociais =====
+
+ [[{ |width: 12rem; display: table; margin: 0 auto; color:green; border-radius: 8px;}https://chat.whatsapp.com/xxxxx|Grupo da Comunidade]]
+
+ [[{ |width: 12rem; display: table; margin: 0 auto; color:green; border-radius: 8px;}https://github.com/HTAJnr/Uniwiki|Repositório da Uniwiki]]
+</WRAP>
+
+----
+
+<WRAP centeralign>
+===== ⏱️ Tempo de Resposta =====
+</WRAP>
+
+<WRAP centeralign>
+<WRAP round info>
+  * Email: 2-5 dias úteis
+  * Reportes urgentes: 24-48 horas
+  * Redes sociais: variável (comunidade)
+</WRAP>
+</WRAP>
+
+----
+
+<WRAP centeralign>
+===== 🤝 Equipa =====
+</WRAP>
+
+<WRAP centeralign>
+Este projeto é mantido por estudantes voluntários de Engenharia Informática.
+
+**Interessado em juntar-te à equipa? Envia email para [[uniwiki@uniwiki.edu|uniwiki@uniwiki.edu]]**
+</WRAP>
+
+----
+
+<WRAP centeralign lo>
+[[:start|← Voltar à página principal]]
+</WRAP>

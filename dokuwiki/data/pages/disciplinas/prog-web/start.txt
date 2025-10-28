@@ -1,0 +1,75 @@
+~~NOTOC~~
+====== Programação Web ======
+<WRAP centeralign>
+<wrap lo>Ano: [2º] • Semestre: [2º] </wrap>
+</WRAP>
+----
+<WRAP centeralign>
+===== 📖 Sobre a Disciplina =====
+Disciplina dedicada à construção de **aplicações web**, abordando desde conceitos históricos da web até tecnologias modernas como **CMS, HTML, CSS, JavaScript e PHP**. Desenvolve competências práticas de design, programação e gestão de conteúdos online.
+</WRAP>
+
+<WRAP center round info 40%>
+**Tópicos principais:**
+  * História da web e evolução das tecnologias web  
+  * Sistemas de Gestão de Conteúdos (**CMS**) e utilização prática  
+  * Estrutura de páginas web com **HTML**  
+  * Estilização de páginas com **CSS** e layout responsivo  
+  * Programação do lado do cliente com **JavaScript**  
+  * Programação do lado do servidor com **PHP**  
+  * Integração entre front-end e back-end  
+  * Boas práticas de desenvolvimento, organização de código e acessibilidade  
+
+**Competências desenvolvidas:**
+  * Criar páginas web estáticas e dinâmicas  
+  * Usar CMS para gestão de conteúdos  
+  * Programar funcionalidades interativas com JavaScript  
+  * Manipular dados do servidor com PHP  
+  * Aplicar padrões de design e boas práticas web  
+  * Integrar front-end e back-end de forma funcional
+
+</WRAP>
+----
+===== 📚 Recursos Disponíveis =====
+==== Material de Apoio ====
+<WRAP group>
+<WRAP half column>
+<WRAP round box>
+**📂 Pasta da Disciplina no Drive**
+Slides, exercícios práticos, exemplos de código em HTML, CSS, JavaScript e PHP, projetos de integração e mini-projetos web. Inclui também exemplos de CMS e templates comentados.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://drive.google.com/drive/folders/1Tlwn5tLazXCY0Zfyt2cgh3WqvZ2LrPis?usp=sharing|Aceder ao Material]]
+
+</WRAP>
+</WRAP>
+<WRAP half column>
+<WRAP round info>
+**📝 O Que Encontras**
+  * Slides teóricos por tópico  
+  * Exercícios práticos de front-end e back-end  
+  * Templates comentados e exemplos de CMS  
+  * Guias de instalação e configuração de servidores web  
+  * Exemplos de integração entre HTML, CSS, JS e PHP  
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+===== 💡 Dicas de Estudo =====
+<WRAP round tip 100%>
+  * Pratica programação web diariamente, mesmo pequenos exercícios  
+  * Constrói projetos pequenos antes de avançar para grandes aplicações  
+  * Testa o código em diferentes navegadores e dispositivos  
+  * Aprende a depurar e inspecionar elementos com ferramentas do navegador  
+  * Documenta e organiza o código para facilitar manutenção e expansão
+
+</WRAP>
+----
+<WRAP centeralign>
+===== ➕ Contribuir =====
+**Tens material útil para esta disciplina?** [[contribuir:add|Partilha aqui!]]
+</WRAP>
+----
+<WRAP centeralign lo>
+[[:start|← Voltar à Página Principal]]
+</WRAP>

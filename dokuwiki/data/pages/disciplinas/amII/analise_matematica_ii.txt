@@ -1,0 +1,52 @@
+====== Análise Matemática II ======
+
+A disciplina **Análise Matemática II** dá sequência à Análise Matemática I, abordando tópicos avançados de cálculo, funções de várias variáveis, integrais múltiplas e equações diferenciais. O objetivo é aplicar conceitos matemáticos para modelagem e resolução de problemas em ciência e engenharia.  
+
+===== Objetivos =====
+  * Estender os conceitos de derivadas e integrais para funções de várias variáveis.  
+  * Aplicar técnicas de cálculo em problemas físicos e computacionais.  
+  * Compreender séries de funções e aproximações.  
+  * Introduzir equações diferenciais elementares e suas aplicações.  
+
+===== Conteúdos =====
+  * **Funções de Várias Variáveis**  
+    * Definição, domínio e imagem  
+    * Limites e continuidade  
+    * Derivadas parciais e diferenciais  
+    * Gradiente, divergente e rotacional (introdução)  
+  * **Derivadas e Aplicações Multivariadas**  
+    * Regras de derivação para funções de várias variáveis  
+    * Derivadas direcionais  
+    * Aplicações: otimização com restrições (multiplicadores de Lagrange)  
+  * **Integrais Múltiplas**  
+    * Integrais duplas e triplas  
+    * Mudança de variável (coordenadas polares, cilíndricas e esféricas)  
+    * Aplicações: volume, massa, centro de massa  
+  * **Séries e Sequências de Funções**  
+    * Séries de potências  
+    * Convergência uniforme e ponto a ponto  
+    * Série de Taylor e Maclaurin  
+  * **Equações Diferenciais**  
+    * Equações diferenciais ordinárias de 1ª ordem  
+    * Equações de 2ª ordem lineares  
+    * Métodos de resolução: separação de variáveis, fator integrante  
+    * Aplicações em crescimento, decaimento, oscilações  
+  * **Teoremas Fundamentais de Cálculo Avançado**  
+    * Teorema de Green  
+    * Teorema de Gauss  
+    * Teorema de Stokes (introdução)  
+
+===== Metodologia =====
+  * Aulas teóricas detalhadas com demonstrações.  
+  * Exercícios práticos de cálculo e modelagem.  
+  * Uso de softwares matemáticos para visualização e experimentação.  
+
+===== Avaliação =====
+  * Provas escritas e testes práticos.  
+  * Exercícios de aplicação individual.  
+  * Trabalhos com modelagem matemática de problemas reais.  
+
+===== Bibliografia =====
+  * STEWART, J. *Cálculo: Volume 2*.  
+  * THOMAS, G. B. *Cálculo e Geometria Analítica*.  
+  * APOSTOL, T. *Calculus, Vol. 2*.  

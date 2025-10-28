@@ -1,0 +1,75 @@
+~~NOTOC~~
+====== Introdução à Programação ======
+<WRAP centeralign>
+<wrap lo>Ano: [1º] • Semestre: [1º] </wrap>
+</WRAP>
+----
+<WRAP centeralign>
+===== 📖 Sobre a Disciplina =====
+Primeira abordagem à programação através de Java, focando nos fundamentos algorítmicos e lógica computacional. Desenvolve pensamento estruturado para resolver problemas através de código, desde conceitos básicos até estruturas de controlo fundamentais.
+</WRAP>
+
+<WRAP center round info 40%>
+**Tópicos principais:**
+  * Introdução à disciplina e preparação do ambiente de desenvolvimento
+  * Conceitos básicos de informática, computadores e tecnologias de informação
+  * Algoritmos e representação em fluxogramas
+  * Introdução à Programação usando Java
+  * Tipos de dados primitivos e referência
+  * Comunicação básica com o utilizador (Input/Output)
+  * Estruturas de seleção (if/else, switch)
+  * Estruturas de repetição (for, while, do-while)
+
+**Competências desenvolvidas:**
+  * Decomposição de problemas em passos lógicos
+  * Escrita de código Java funcional
+  * Debugging e teste de programas simples
+  * Compreensão de fluxo de execução
+
+</WRAP>
+----
+===== 📚 Recursos Disponíveis =====
+==== Material de Apoio ====
+<WRAP group>
+<WRAP half column>
+<WRAP round box>
+**📂 Pasta da Disciplina no Drive**
+Slides das aulas teóricas, exercícios resolvidos, fichas práticas com soluções comentadas e exemplos de código para cada tópico. Inclui também mini-projetos de consolidação.
+
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://drive.google.com/drive/folders/1Mj7gpWVui1Ez__3teGcyokEsfRSgzGox?usp=sharing|Aceder ao Material]]
+
+</WRAP>
+</WRAP>
+<WRAP half column>
+<WRAP round info>
+**📝 O Que Encontras**
+  * Slides teóricos por tópico
+  * Exercícios progressivos (básico → avançado)
+  * Templates de código comentados
+  * Guias de instalação (JDK, IDE)
+  * Exemplos de exames anteriores
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+
+===== 💡 Dicas de Estudo =====
+<WRAP round tip 100%>
+  * Escreve código todos os dias, mesmo que sejam 15 minutos
+  * Resolve problemas no papel (fluxogramas) antes de programar
+  * Não copies código sem entender - reescreve à tua maneira
+  * Usa o debugger da IDE, não apenas prints
+  * Participa nas aulas práticas - programação aprende-se fazendo
+
+</WRAP>
+----
+<WRAP centeralign>
+===== ➕ Contribuir =====
+**Tens material útil para esta disciplina?** [[contribuir:add|Partilha aqui!]]
+</WRAP>
+----
+<WRAP centeralign lo>
+[[:start|← Voltar a Página Principal]]
+</WRAP>

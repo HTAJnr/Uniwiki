@@ -1,0 +1,116 @@
+~~NOTOC~~
+====== Algoritmos e Estruturas de Dados I & II ======
+<WRAP centeralign>
+<wrap lo>Ano: [2º] • Semestres: [1º & 2º]</wrap>
+</WRAP>
+----
+<WRAP centeralign>
+===== 📖 Sobre as Disciplinas =====
+Disciplinas que aprofundam a **estruturação e análise de algoritmos**, bem como a implementação e manipulação de **estruturas de dados** em programação.  
+**AED I** foca nos tipos abstratos de dados (TADs), pilhas, filas, listas, dicionários e árvores básicas.  
+**AED II** expande para árvores avançadas, filas com prioridade, algoritmos de ordenação, grafos, caminhos mínimos, árvores de cobertura e algoritmos clássicos como Prim, Kruskal e Dijkstra, incluindo conceitos de programação dinâmica e TAD partição.
+</WRAP>
+
+<WRAP group>
+<WRAP half column>
+<WRAP round info>
+===== Algoritmos e Estruturas de Dados I =====
+**Tópicos principais:**
+  * Introdução à análise de algoritmos  
+  * Tipos Abstratos de Dados (TADs)  
+  * TAD Pilha (LIFO) e TAD Fila (FIFO)  
+  * TAD Lista e TAD Dicionário  
+  * Árvores e Árvores Binárias  
+  * TAD Dicionário Ordenado  
+  * Árvores Binárias Equilibradas e AVL  
+  * Árvores Vermelhas e Pretas  
+  * Filas com Prioridade (Heap)  
+  * Algoritmos de Ordenação (com comparações e indexação)  
+
+**Competências desenvolvidas:**
+  * Análise de complexidade de algoritmos  
+  * Implementação e manipulação de TADs em código  
+  * Estruturação e balanceamento de árvores  
+  * Aplicação de filas com prioridade e heaps  
+  * Desenvolvimento de algoritmos eficientes de ordenação e busca  
+</WRAP>
+</WRAP>
+
+<WRAP half column>
+<WRAP round info>
+===== Algoritmos e Estruturas de Dados II =====
+**Tópicos principais:**
+  * Programação dinâmica  
+  * Noções de grafos e percursos (BFS, DFS)  
+  * Árvores mínimas de cobertura, algoritmos de Kruskal e Prim  
+  * Caminho mais curto (Dijkstra)  
+  * Fila com prioridade adaptável  
+  * Árvores B e B+  
+  * TAD Partição  
+
+**Competências desenvolvidas:**
+  * Aplicação de algoritmos de grafos em problemas reais  
+  * Implementação de estruturas avançadas como árvores B/B+  
+  * Resolução de problemas com programação dinâmica  
+  * Utilização de filas adaptáveis e TADs complexos  
+  * Construção de algoritmos eficientes de caminhos e cobertura  
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+===== 📚 Recursos Disponíveis =====
+==== Material de Apoio ====
+<WRAP group>
+<WRAP half column>
+<WRAP round box>
+**📂 Pasta das Disciplinas no Drive**  
+Slides teóricos, exercícios práticos, exemplos de código e projetos guiados sobre TADs, árvores, heaps, algoritmos de ordenação e grafos. Inclui exercícios de programação dinâmica, caminhos mínimos e árvores B/B+.  
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://drive.google.com/drive/folders/1UM1I32WJaFrm7ibPsARKPFnVdBmRrOiZ?usp=sharing|Aceder ao Material]]
+</WRAP>
+</WRAP>
+
+<WRAP half column>
+<WRAP round info>
+**📝 O Que Encontras**
+  * Exemplos comentados de TADs e árvores  
+  * Exercícios de ordenação e heaps  
+  * Implementação de grafos e percursos  
+  * Projetos guiados de árvores de cobertura, Kruskal e Prim  
+  * Algoritmos de caminho mais curto e programação dinâmica  
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+===== 💡 Dicas de Estudo =====
+<WRAP round tip 100%>
+<WRAP group>
+<WRAP half column>
+**Para AED I:**  
+  * Pratica implementação de TADs em código diariamente  
+  * Desenha diagramas de árvores para entender estrutura e balanceamento  
+  * Simula heaps e filas com prioridade manualmente  
+  * Resolva exercícios de ordenação e busca  
+</WRAP>
+
+<WRAP half column>
+**Para AED II:**  
+  * Estuda grafos desenhando percursos e aplicando BFS/DFS  
+  * Implementa árvores B/B+ e TAD partição em pequenos projetos  
+  * Pratica programação dinâmica com exemplos passo a passo  
+  * Simula algoritmos de Kruskal, Prim e Dijkstra em papel antes de codificar  
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+<WRAP centeralign>
+===== ➕ Contribuir =====
+**Tens material útil para estas disciplinas?** [[contribuir:add|Partilha aqui!]]
+</WRAP>
+----
+<WRAP centeralign lo>
+[[:start|← Voltar à Página Principal]]
+</WRAP>

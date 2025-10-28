@@ -1,0 +1,50 @@
+====== Matemática Discreta I ======
+
+A disciplina **Matemática Discreta I (MD I)** apresenta os fundamentos matemáticos utilizados em **Ciência da Computação**, **Engenharia Informática** e áreas relacionadas. O foco é em estruturas matemáticas discretas (não contínuas), essenciais para o raciocínio lógico e formalização de algoritmos.
+
+===== Objetivos =====
+  * Desenvolver o raciocínio lógico e matemático.  
+  * Compreender e aplicar **lógica proposicional e de predicados**.  
+  * Entender **conjuntos, relações e funções**.  
+  * Introduzir técnicas de **provas matemáticas**.  
+  * Fornecer bases para cursos avançados em algoritmos e teoria da computação.  
+
+===== Conteúdos =====
+  * **Lógica Proposicional**  
+    * Proposições, conectivos e tabelas de verdade.  
+    * Equivalências lógicas.  
+    * Leis de De Morgan.  
+    * Implicação, bicondicional e tautologias.  
+  * **Lógica de Predicados**  
+    * Quantificadores existencial e universal.  
+    * Tradução de enunciados para lógica formal.  
+  * **Métodos de Prova**  
+    * Prova direta.  
+    * Prova por contraposição.  
+    * Prova por contradição.  
+    * Indução matemática.  
+  * **Teoria de Conjuntos**  
+    * Operações com conjuntos.  
+    * Conjuntos finitos e infinitos.  
+    * Produto cartesiano.  
+  * **Relações e Funções**  
+    * Relações de equivalência e ordem.  
+    * Funções injetoras, sobrejetoras e bijetoras.  
+  * (Introdução) **Combinatória**  
+    * Princípio da contagem.  
+    * Permutações e combinações.  
+
+===== Metodologia =====
+  * Aulas teóricas com exemplos práticos.  
+  * Exercícios de fixação em sala e casa.  
+  * Trabalhos individuais ou em grupo com aplicação dos conceitos.  
+
+===== Avaliação =====
+  * Testes escritos.  
+  * Listas de exercícios.  
+  * Prova final.  
+
+===== Bibliografia =====
+  * ROSEN, Kenneth H. *Matemática Discreta e Suas Aplicações*.  
+  * EPP, Susanna S. *Discrete Mathematics with Applications*.  
+  * LIPSCHUTZ, Seymour. *Matemática Discreta* (Schaum).  

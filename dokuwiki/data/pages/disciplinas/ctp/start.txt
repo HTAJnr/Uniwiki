@@ -1,0 +1,73 @@
+~~NOTOC~~
+====== Comunicação Técnico-Pessoal ======
+
+<WRAP centeralign>
+<wrap lo>Ano: [1º] • Semestre: [1º]</wrap>
+</WRAP>
+----
+<WRAP centeralign>
+===== 📖 Sobre a Disciplina =====
+Desenvolve competências de comunicação oral, escrita e interpessoal aplicadas ao contexto académico e profissional da engenharia.  
+Trabalha técnicas de exposição, redação científica, ética profissional e pesquisa de dados, preparando o estudante para comunicar com clareza e profissionalismo em ambientes técnicos e colaborativos.
+</WRAP>
+
+<WRAP center round info 50%>
+**Tópicos principais:**
+  * Métodos de estudo e organização académica  
+  * Exposição oral e comunicação cinestésica  
+  * Comunicação escrita e produção de documentos técnicos  
+  * Comunicação oral avançada: retórica, argumentação e negociação  
+  * Profissão do engenheiro informático e ética profissional  
+  * Ciência, conhecimento e metodologia científica  
+  * Textos de pesquisa: resumo, fichas, monografias e projetos científicos  
+
+**Competências desenvolvidas:**
+  * Expressão oral e escrita em contextos técnicos  
+  * Estruturação de apresentações eficazes  
+  * Redação de relatórios e documentos científicos  
+  * Aplicação de princípios éticos e deontológicos  
+  * Planeamento e execução de pequenos projetos de pesquisa  
+</WRAP>
+----
+===== 📚 Recursos Disponíveis =====
+==== Material de Apoio ====
+<WRAP group>
+<WRAP half column>
+<WRAP round box>
+**📂 Pasta da Disciplina no Drive**  
+Slides teóricos, exercícios, exemplos de textos académicos e guias de comunicação profissional. Inclui fichas práticas e exemplos de relatórios técnicos e projetos de pesquisa.  
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://drive.google.com/drive/folders/1ciNpnozlD9NG__YWv_oETgxe95o61JUE?usp=sharing|Aceder ao Material]]
+</WRAP>
+</WRAP>
+
+<WRAP half column>
+<WRAP round info>
+**📝 O Que Encontras**
+  * Guias de escrita técnica e científica  
+  * Modelos de apresentações orais e relatórios  
+  * Exercícios de retórica e argumentação  
+  * Exemplos de projetos e monografias  
+  * Fichas de leitura e resumos de apoio  
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+===== 💡 Dicas de Estudo =====
+<WRAP round tip 100%>
+  * Pratica apresentações curtas regularmente, sozinho ou em grupo  
+  * Escreve e reescreve os teus textos — revisa sempre clareza e precisão  
+  * Observa bons oradores e identifica técnicas que podes aplicar  
+  * Mantém o hábito de leitura técnica e científica  
+  * Planeia o teu tempo de estudo com metas semanais  
+</WRAP>
+----
+<WRAP centeralign>
+===== ➕ Contribuir =====
+**Tens material útil para esta disciplina?** [[contribuir:add|Partilha aqui!]]
+</WRAP>
+----
+<WRAP centeralign lo>
+[[:start|← Voltar à Página Principal]]
+</WRAP>

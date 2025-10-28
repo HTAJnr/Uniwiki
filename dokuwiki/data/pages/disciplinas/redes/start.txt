@@ -1,0 +1,75 @@
+~~NOTOC~~
+====== Redes de Computadores ======
+<WRAP centeralign>
+<wrap lo>Ano: [2º] • Semestre: [2º] </wrap>
+</WRAP>
+----
+<WRAP centeralign>
+===== 📖 Sobre a Disciplina =====
+Disciplina focada na **arquitetura, protocolos e funcionamento de redes de computadores**, abordando desde conceitos fundamentais até tecnologias modernas de comunicação de dados. Desenvolve competências em planeamento, configuração e análise de redes.
+</WRAP>
+
+<WRAP center round info 50%>
+**Tópicos principais:**
+  * Conceitos básicos de redes e modelos de referência (OSI, TCP/IP)  
+  * Tipos de redes: LAN, WAN, MAN, WLAN, PAN  
+  * Meios de transmissão: cabos, fibras, rádio, satélite  
+  * Endereçamento IP, máscaras de sub-rede e roteamento  
+  * Protocolos de comunicação (TCP, UDP, HTTP, FTP, SMTP, DNS)  
+  * Equipamentos de rede: hubs, switches, routers, access points  
+  * Segurança em redes: firewalls, VPN, criptografia, políticas de acesso  
+  * Redes sem fios e tecnologias emergentes  
+
+**Competências desenvolvidas:**
+  * Compreender o funcionamento das redes e seus protocolos  
+  * Configurar e gerir equipamentos de rede  
+  * Planejar endereçamento IP e sub-redes  
+  * Diagnosticar problemas e otimizar o desempenho da rede  
+  * Aplicar medidas de segurança e proteção de dados  
+  * Integrar redes locais e remotas de forma eficiente
+
+</WRAP>
+----
+===== 📚 Recursos Disponíveis =====
+==== Material de Apoio ====
+<WRAP group>
+<WRAP half column>
+<WRAP round box>
+**📂 Pasta da Disciplina no Drive**
+Slides teóricos, exercícios práticos de configuração e simulação de redes, exemplos de topologias, guias de protocolos, e exercícios de segurança de redes. Inclui também casos práticos de implementação de LAN e WAN.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://drive.google.com/drive/folders/1kitAY2VcIeb5zWQMRxGA_lVYkOpLGDkc?usp=sharing|Aceder ao Material]]
+
+</WRAP>
+</WRAP>
+<WRAP half column>
+<WRAP round info>
+**📝 O Que Encontras**
+  * Slides teóricos organizados por tópicos  
+  * Exercícios práticos de configuração e troubleshooting  
+  * Exemplos de topologias e protocolos  
+  * Guias passo-a-passo para configuração de redes  
+  * Casos de estudo e exemplos reais de redes corporativas  
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+===== 💡 Dicas de Estudo =====
+<WRAP round tip 100%>
+  * Pratica configuração de redes em simuladores ou laboratórios  
+  * Memoriza camadas, protocolos e funções do modelo OSI/TCP-IP  
+  * Faz exercícios de cálculo de sub-redes e endereçamento IP  
+  * Aprende a interpretar logs e mensagens de erro de dispositivos  
+  * Testa diferentes cenários de rede e documenta os resultados
+
+</WRAP>
+----
+<WRAP centeralign>
+===== ➕ Contribuir =====
+**Tens material útil para esta disciplina?** [[contribuir:add|Partilha aqui!]]
+</WRAP>
+----
+<WRAP centeralign lo>
+[[:start|← Voltar à Página Principal]]
+</WRAP>

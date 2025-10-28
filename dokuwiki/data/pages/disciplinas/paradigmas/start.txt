@@ -1,0 +1,74 @@
+~~NOTOC~~
+====== Paradigmas de Programação ======
+<WRAP centeralign>
+<wrap lo>Ano: [2º] • Semestre: [2º] </wrap>
+</WRAP>
+----
+<WRAP centeralign>
+===== 📖 Sobre a Disciplina =====
+Disciplina que explora diferentes **paradigmas de programação**, incluindo programação estruturada, funcional e lógica. Aborda conceitos avançados de programação, raciocínio formal e aplicação de linguagens como **OCaml, SML e Prolog**.
+</WRAP>
+
+<WRAP center round info 60%>
+**Tópicos principais:**
+  * Revisão de conceitos básicos de programação e estruturas de dados  
+  * Programação Funcional: introdução e conceitos fundamentais  
+  * Linguagens Funcionais: **OCaml** e **SML** (tipagem, funções, recursão, listas, pattern matching)  
+  * Programação Lógica: conceitos de lógica de predicados, resolução, backtracking  
+  * Linguagem **Prolog**: sintaxe, fatos, regras, consultas, unificação e recursão  
+  * Comparação entre paradigmas: procedural, funcional, lógica e orientada a objetos  
+  * Estruturas avançadas de dados em paradigmas não imperativos  
+  * Técnicas de depuração e avaliação de expressões  
+
+**Competências desenvolvidas:**
+  * Escrever programas em diferentes paradigmas  
+  * Compreender e aplicar raciocínio funcional e lógico  
+  * Resolver problemas usando linguagens funcionais e lógicas  
+  * Comparar soluções entre paradigmas e avaliar eficiência  
+  * Desenvolver abstração e modularidade em projetos complexos
+
+</WRAP>
+----
+===== 📚 Recursos Disponíveis =====
+==== Material de Apoio ====
+<WRAP group>
+<WRAP half column>
+<WRAP round box>
+**📂 Pasta da Disciplina no Drive**
+Slides, exercícios resolvidos, exemplos de código em **OCaml, SML e Prolog**, mini-projetos e exercícios práticos. Inclui também exames anteriores comentados.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://drive.google.com/drive/folders/1L-jbSdRGhvqfSAaAAVU-Emjw0LBKZUAT?usp=sharing|Aceder ao Material]]
+
+</WRAP>
+</WRAP>
+<WRAP half column>
+<WRAP round info>
+**📝 O Que Encontras**
+  * Slides teóricos por tópico  
+  * Exercícios progressivos (básico → avançado)  
+  * Templates de código comentados  
+  * Guias de instalação e execução de OCaml, SML e Prolog  
+  * Exemplos de aplicações de paradigmas em problemas reais  
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+===== 💡 Dicas de Estudo =====
+<WRAP round tip 100%>
+  * Pratica programação funcional e lógica diariamente  
+  * Escreve funções recursivas e usa pattern matching para fixar conceitos  
+  * Testa consultas e regras em Prolog para entender backtracking  
+  * Compara soluções entre paradigmas para perceber vantagens e limitações  
+  * Refatora código para melhorar modularidade e legibilidade
+
+</WRAP>
+----
+<WRAP centeralign>
+===== ➕ Contribuir =====
+**Tens material útil para esta disciplina?** [[contribuir:add|Partilha aqui!]]
+</WRAP>
+----
+<WRAP centeralign lo>
+[[:start|← Voltar à Página Principal]]
+</WRAP>

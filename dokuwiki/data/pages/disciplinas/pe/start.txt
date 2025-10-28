@@ -1,0 +1,77 @@
+~~NOTOC~~
+====== Probabilidade e Estatística ======
+<WRAP centeralign>
+<wrap lo>Ano: [2º] • Semestre: [1º] </wrap>
+</WRAP>
+----
+<WRAP centeralign>
+===== 📖 Sobre a Disciplina =====
+Disciplina que introduz os conceitos de **probabilidade, variáveis aleatórias e estatística descritiva e inferencial**. Foca-se em modelagem de incertezas, análise de dados e interpretação de resultados para **Engenharia e Ciências Aplicadas**.
+</WRAP>
+
+<WRAP center round info 60%>
+**Tópicos principais:**
+  * Conceitos básicos de probabilidade: espaço amostral, eventos e axiomas  
+  * Probabilidade condicional e independência  
+  * Teorema de Bayes  
+  * Variáveis aleatórias discretas e contínuas  
+  * Funções de distribuição e densidade de probabilidade  
+  * Esperança, variância e momentos  
+  * Distribuições importantes: Binomial, Poisson, Normal, Exponencial  
+  * Estatística descritiva: medidas de tendência central e dispersão  
+  * Amostragem e Teorema Central do Limite  
+  * Estimação de parâmetros e intervalos de confiança  
+  * Testes de hipóteses: unilaterais, bilaterais e qui-quadrado  
+
+**Competências desenvolvidas:**
+  * Calcular probabilidades e interpretar resultados  
+  * Modelar fenómenos aleatórios usando variáveis e distribuições  
+  * Analisar dados e resumir informação de forma estatística  
+  * Aplicar inferência estatística em decisões de engenharia e ciências  
+  * Avaliar a validade de hipóteses através de testes estatísticos
+
+</WRAP>
+----
+===== 📚 Recursos Disponíveis =====
+==== Material de Apoio ====
+<WRAP group>
+<WRAP half column>
+<WRAP round box>
+**📂 Pasta da Disciplina no Drive**
+Slides das aulas teóricas, exercícios resolvidos, fichas práticas com soluções comentadas e exemplos de aplicação em Engenharia e Ciências. Inclui também problemas de exames anteriores.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://drive.google.com/drive/folders/1B04W_Kdu6CM4ZKAM7g10nCzAEjk-oAmf?usp=sharing|Aceder ao Material]]
+
+</WRAP>
+</WRAP>
+<WRAP half column>
+<WRAP round info>
+**📝 O Que Encontras**
+  * Slides teóricos por tópico  
+  * Exercícios progressivos (básico → avançado)  
+  * Exemplos de provas anteriores  
+  * Guias de estudo com resolução comentada  
+  * Tabelas e fórmulas de probabilidade e estatística  
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+===== 💡 Dicas de Estudo =====
+<WRAP round tip 100%>
+  * Pratica muitos exercícios de cálculo de probabilidades  
+  * Desenha gráficos e distribuições para melhor visualização  
+  * Revê conceitos de variáveis aleatórias e suas propriedades  
+  * Simula dados para entender o Teorema Central do Limite  
+  * Resolva problemas de testes de hipóteses e intervalos de confiança
+
+</WRAP>
+----
+<WRAP centeralign>
+===== ➕ Contribuir =====
+**Tens material útil para esta disciplina?** [[contribuir:add|Partilha aqui!]]
+</WRAP>
+----
+<WRAP centeralign lo>
+[[:start|← Voltar à Página Principal]]
+</WRAP>

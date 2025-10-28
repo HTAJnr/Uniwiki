@@ -1,0 +1,213 @@
+~~NOTOC~~
+====== Livros das Disciplinas ======
+<WRAP centeralign>
+<wrap lo>Categoria: [Bibliografia] • Tipo: [Livros Académicos]</wrap>
+</WRAP>
+----
+
+<WRAP centeralign>
+===== 📖 Sobre Este Recurso =====
+Coleção curada de bibliografia essencial para o curso de Engenharia Informática. Inclui livros de texto, manuais de referência e coletâneas de exercícios utilizados nas disciplinas do curso.
+</WRAP>
+
+**Ideal para:**
+  * Estudantes que precisam de material de apoio às aulas
+  * Preparação para testes e exames
+  * Aprofundamento teórico e resolução de problemas
+  * Consulta rápida durante projetos académicos
+
+----
+
+===== 📕 Análise Matemática I & II =====
+<WRAP group>
+<WRAP half column>
+<WRAP round box>
+**📘 Cálculo Diferencial (Derivadas)**
+
+Livro fundamental sobre teoria e aplicação de derivadas, cobrindo definições rigorosas, técnicas de diferenciação e aplicações práticas do cálculo diferencial.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}livros:calculoDiferencial.pdf|Baixar PDF]]
+
+</WRAP>
+</WRAP>
+
+<WRAP half column>
+<WRAP round box>
+**📕 Problemas e Exercícios de Análise Matemática (Demidovitch)**
+
+Coleção clássica com milhares de problemas resolvidos e propostos. Indispensável para prática intensiva em todos os tópicos de Análise Matemática.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://drive.google.com/file/d/1LxCAfPGp1O4T8FnYdtXIN0RyZyX9ayFq/view?usp=sharing|Baixar PDF]]
+
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+
+===== 💾 Algoritmos e Estrutura de Dados I & II =====
+<WRAP group>
+<WRAP third column>
+<WRAP round box>
+**📗 Data Structures and Algorithm Analysis (Java)**
+
+Texto abrangente sobre estruturas de dados clássicas e análise de algoritmos com implementações em Java.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://drive.google.com/file/d/1AJoiI2UYVdd40oJYAtlCCbbknDbOFbdT/view?usp=sharing|Baixar PDF]]
+
+</WRAP>
+</WRAP>
+
+<WRAP third column>
+<WRAP round box>
+**📘 Disjoint Sets and Minimum Spanning Trees**
+
+Material especializado sobre estruturas Union-Find e algoritmos para árvores geradoras mínimas (Kruskal, Prim).
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}livros:disjoint.pdf|Baixar PDF]]
+
+</WRAP>
+</WRAP>
+
+<WRAP third column>
+<WRAP round box>
+**📙 Data Structures and Algorithm Analysis in Java**
+
+Referência consolidada com foco em implementações práticas, análise de complexidade e trade-offs de design.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://drive.google.com/file/d/1_RgbAVlvoe5dh9PRhvaIppGD8Ryecs_t/view?usp=sharing|Baixar PDF]]
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+
+===== 🗄️ Base de Dados I =====
+<WRAP group>
+<WRAP half column>
+<WRAP round box>
+**📕 Database Systems: Design, Implementation, and Management**
+
+Cobertura completa desde modelagem conceptual (ER) até implementação SQL, normalização, transações e administração de SGBD.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://drive.google.com/file/d/1rnG5_Hs5NlFWsB8Lai6eHkz2GoKKBC7_/view?usp=sharing|Baixar PDF]]
+</WRAP>
+</WRAP>
+
+<WRAP half column>
+<WRAP round box>
+**📘 Database Systems: A Practical Approach**
+
+Abordagem prática com estudos de caso reais. Equilibra teoria rigorosa com aplicações concretas em sistemas comerciais.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://drive.google.com/file/d/1n9_eOF9yRU7YkDRIwPNs1-Cm2VglQ5fD/view?usp=sharing|Baixar PDF]]
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+
+===== 🔄 Paradigmas de Programação =====
+<WRAP group>
+<WRAP third column>
+<WRAP round box>
+**📙 Standard ML Mini-tutorial**
+
+Tutorial introdutório conciso ao SML/NJ, ideal para primeiros contactos com programação funcional.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}livros:smltutorial.pdf|Baixar PDF]]
+</WRAP>
+</WRAP>
+
+<WRAP third column>
+<WRAP round box>
+**📗 Programação Funcional em OCaml**
+
+Recurso em português sobre OCaml, cobrindo conceitos fundamentais de programação funcional com sintaxe clara.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}livros:ocaml.pdf|Baixar PDF]]
+
+</WRAP>
+</WRAP>
+
+<WRAP third column>
+<WRAP round box>
+**📘 SML/NJ Language Processing Tools**
+
+Guia sobre ferramentas de processamento de linguagem em SML/NJ (lex, yacc, etc.).
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}livros:smlnj-tools.pdf|Baixar PDF]]
+
+</WRAP>
+</WRAP>
+</WRAP>
+
+<WRAP group>
+<WRAP half column>
+<WRAP round box>
+**📕 Introduction to Standard ML**
+
+Introdução rigorosa ao Standard ML por um dos designers da linguagem. Abordagem formal mas acessível.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}livros:standardML.pdf|Baixar PDF]]
+
+</WRAP>
+</WRAP>
+
+<WRAP half column>
+<WRAP round box>
+**📙 Programming in Standard ML '97: A Tutorial**
+
+Tutorial estruturado sobre SML'97 com progressão gradual de conceitos e exemplos práticos.
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}livros:lect-SMLNJ.pdf|Baixar PDF]]
+
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+
+===== ⚙️ Sistemas Operativos I & II =====
+<WRAP group>
+<WRAP half column>
+<WRAP round box>
+**📕 Sistemas Operacionais Modernos**
+
+Obra clássica e abrangente sobre SO. Cobre processos, memória, sistemas de ficheiros, I/O, segurança e estudos de caso (Unix, Linux, Windows).
+
+[[{ |width: 12rem; display: table; margin: 0 auto; color:#04BADE; border-radius: 8px;}https://drive.google.com/file/d/1ZfmGakRJpdHfUJzrHOggfgAT2yKGFzwd/view?usp=drive_link|Baixar PDF]]
+
+</WRAP>
+</WRAP>
+</WRAP>
+
+----
+
+===== 💡 Dicas de Uso =====
+<WRAP round tip>
+**Para iniciantes:**
+  * Começa pelos livros introdutórios da disciplina atual
+  * Não tentes ler tudo — foca nos capítulos relevantes para a matéria lecionada
+  * Usa os livros de exercícios (como Demidovich) após dominares a teoria
+</WRAP>
+
+<WRAP round important>
+**Nota sobre downloads:**
+  * Os PDFs estão disponíveis apenas para fins académicos
+  * Respeita os direitos de autor — não redistribuas comercialmente
+  * Se possível, considera adquirir versões físicas para apoiar os autores
+</WRAP>
+
+----
+
+<WRAP centeralign>
+===== ➕ Conheces Outros Recursos? =====
+**Tens materiais úteis? [[contribuir:add|Partilha connosco!]]**
+</WRAP>
+
+----
+
+<WRAP centeralign lo>
+[[:start|← Voltar à página principal]]
+</WRAP>
